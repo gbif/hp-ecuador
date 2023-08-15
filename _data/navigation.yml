@@ -10,11 +10,11 @@
     href: /occurrence/search?hosting_organization_key=c54097e6-0972-4acb-b849-eaeba29c917d
     
 - text: Colecciones Científicas
-menu:
-- text: Instituciones
-  href: /institution/search
-- text: Coleciones
-  href: /collection/search
+  menu:
+  - text: Instituciones
+    href: /institution/search
+  - text: Coleciones
+    href: /collection/search
   
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
@@ -38,7 +38,7 @@ menu:
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
     
-- text: News
+- text: Noticias
   href: /news/
   
 - text: Acerca de
