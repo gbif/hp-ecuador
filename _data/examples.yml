@@ -1,21 +1,3 @@
-stats:
-  klass: contentTypesStat
-  # title: "type: stats"
-  # description: |      # required
-  #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
-  features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
-      description: Institutions
-      background: /assets/images/placeholders/institutions_small.jpg
-      href: /institution/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?&displayOnNHCPortal=true">45</span>
-      description: Collections
-      background: /assets/images/placeholders/collections_small.jpg
-      href: /collection/search
-    - title: "54 million"
-      description: Digitized specimens
-      background: /assets/images/placeholders/specimen.png
-
 couldBeAnyName:
   title: Virginis socerque
   description: |
