@@ -6,11 +6,15 @@
   menu: 
   - text: Biodiversidad de Ecuador
     href: /occurrence/search?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
-  - text: Datos publicos por nuestras isntituciones
+  - text: Datos publicados por nuestras instituciones
     href: /occurrence/search?hosting_organization_key=c54097e6-0972-4acb-b849-eaeba29c917d
     
 - text: Colecciones Científicas
+menu:
+- text: Instituciones
   href: /institution/search
+- text: Coleciones
+  href: /collection/search
   
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
