@@ -1,0 +1,33 @@
+# it is possible to refer to images in front matter and access these images. 
+# Or you can choose to just type them in the front matter. It is a matter of preference. 
+# If you reuse images a lot, it can be convinent to only have them one place.
+
+# So in your frontmatter you can either use this data file :
+# background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
+# imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
+#
+# or you can just type it in that file
+# background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
+# imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+
+irpex:
+  src: /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
+  caption: |
+    [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+puccinia:
+  src: /assets/images/placeholders/puccinia-grahamii-1135811910.jpg
+  caption: |
+    [Holotype of _Puccinia grahamii_ G.Cunn.](https://www.gbif.org/occurrence/1135811910) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+garcinia:
+  src: /assets/images/placeholders/garcinia_2563424903.jpg
+  caption: |
+    [Isotype of _Garcinia urceolata_ Munzinger, Bruy & M. Pignal](https://www.gbif.org/occurrence/2563424903)
+acalypha_gillespieae:
+  src: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
+  caption: |
+    [Holotype of _Acalypha gillespieae_ G.A.Levin & I.Montero, 2020](https://www.gbif.org/occurrence/1258001892) from [Missouri Botanical Garden](/institution/1be3aa67-8f90-4309-92f4-bd55426a8c09)
+catocala_ilia_cramer:
+  src: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
+  caption: |
+    [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](institution/75f50140-830d-4630-a290-3d6e951a7c29)
+
