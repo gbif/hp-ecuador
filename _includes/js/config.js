@@ -87,10 +87,16 @@ var siteConfig = {
     },
     highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'publisherKey', 'elevation', 'year', 'basisOfRecord', 'datasetName', 'occurrenceIssue'],
     occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY'],
-    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+  },
+  dataset: {
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
+  },
+  literature: {
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
   },
   collection: {
-    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
@@ -99,13 +105,16 @@ var siteConfig = {
     }
   },
   institution: {
-    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
       country: "EC",
       active: true
     },
+    publisher: {
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
+  },
     mapSettings: {
       enabled: true,
       lat: -1.4481247373907848,
