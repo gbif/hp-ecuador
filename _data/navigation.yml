@@ -1,16 +1,16 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
+- text: Acerca de
   href: /about
 # - text: Occurrences
 #   href: /occurrence/search
 - text: Occurrence data
   menu: 
-  - text: Biodiversity within Ecuador
+  - text: Biodiversidad de Ecuador
     href: /occurrence/search?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
-  - text: Data published by our institutions
+  - text: Datos publicos por nuestras isntituciones
     href: /occurrence/search?publishingCountry=EC
-- text: Natural history institutions
+- text: Colecciones Científicas
   href: /institution/search
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
