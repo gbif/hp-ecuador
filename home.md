@@ -1,18 +1,18 @@
 ---
 lang-ref: home
 layout: home
-title: Explore the biodiversity of Ecuador
+title: Explora la biodiversidad de Ecuador
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
 cta:
-  - text: Institutions
+  - text: Institutiones
     href: /institution/search
     isPrimary: true
-  - text: Occurrences in Ecuador
+  - text: Occurrencias en Ecuador
     href: /occurrence/search?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
-  - text: About
+  - text: Acerca de
     href: /about
 composition:
   - type: heroImage # the block type

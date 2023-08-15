@@ -1,6 +1,6 @@
 ---
 title:  "Getting started for authors"
-date:   2021-01-14 15:20:00 +0100
+date:   2021-01-14 15:20:00 -0500
 categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
 background: https://via.placeholder.com/600x300

@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-date:   2020-09-25 21:37:12 +0200
+date:   2020-09-25 21:37:12 -0500
 categories: jekyll update
 lang-ref: welcome to jekyll
 background: https://via.placeholder.com/600x300

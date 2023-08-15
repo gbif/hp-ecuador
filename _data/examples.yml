@@ -11,24 +11,28 @@ couldBeAnyName:
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
       # categories: [drawings] # optional
+    
     - title: Fly moving land # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
+    
     - title: Fruitful replenish # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
+    
     - title: Land man dry # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
+    
     - title: Abundantly light years # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
