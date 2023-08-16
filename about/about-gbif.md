@@ -12,9 +12,9 @@ composition:
   - data: about.que-es-gbif
     type: split
   - data: about.mision
-    type: product
+    type: split
   - data: about.vision
-    type: product
+    type: split
   - type: pageMarkdown  
 ---
 
