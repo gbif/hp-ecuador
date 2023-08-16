@@ -1,0 +1,10 @@
+#split
+que-es-gbif:
+  reverse: true
+  title: "¿Qué es GBIF?"
+  description: |      # required
+     El Sistema Global de Información sobre Biodiversidad —GBIF, por sus siglas en inglés— es una red internacional e infraestructura de datos financiada por los gobiernos del mundo para dar a cualquiera, en cualquier lugar, acceso abierto a datos sobre todas las formas de vida en la Tierra.
+     
+  #   En Colombia, [la participación nacional en GBIF es facilitada por el SiB Colombia](https://www.gbif.org/country/EC/summary){:target="_blank"}, como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
+  # img required
+  background: https://api.gbif.org/v1/image/ZPl1P_q-y696LA5WTqLlXZCxLF8=/fit-in/1000x0/https%3A%2F%2Fbiodiversidad.co%2Facercade%2Fimagenes%2Fque-es-gbif-red.png
