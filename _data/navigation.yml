@@ -39,4 +39,6 @@
   href: /news/
   
 - text: Acerca de
-  href: /about
+  menu: # Dropdown menu (one level deep only)
+  - text: Simple
+    href: /about
