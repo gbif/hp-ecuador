@@ -90,7 +90,10 @@ var siteConfig = {
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
   },
   dataset: {
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+    rootFilter: {publishingCountry: 'CO'},
+    highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
+    excludedFilters: ['publishingCountryCode']
   },
   literature: {
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
