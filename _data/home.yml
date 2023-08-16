@@ -22,3 +22,17 @@ stats:
       #background: /assets/images/landing_page/iconos_cifras/ico_sociosPublicadores_gris.png
       #href: /comunidad/socios-publicadores/
       # Hard coded value     
+product:
+  title: "type: product"
+  description: |      # required
+    See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L12) for the content structure.
+    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
+  # img required
+  background: /assets/img/Haeckel_Siphoneae.jpg
+  imageLicense: |
+    *Cladophora aegagropila* (Linnaeus) Rabenhorst. Photo by  Оlga Сhernyagina. Via [gbif.org](https://www.gbif.org/occurrence/2862552277)
+  href: /about
+  cta:
+  - text: Download report
+    href: http://example.com
+    isPrimary: true
