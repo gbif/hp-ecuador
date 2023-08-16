@@ -16,6 +16,8 @@ cta:
     href: /about
 composition:
   - type: heroImage # the block type
+  - type: stats
+    data: home.stats
   - type: split
     data: examples.herbariumImageExample
   - type: features
