@@ -86,7 +86,7 @@ var siteConfig = {
       ]
     },
     highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'publisherKey', 'year', 'basisOfRecord', 'datasetName'],
-    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY','DATASET','LITERATURE'],
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY','DATASET'],
     //availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
     excludedFilters: ['publishingCountryCode']
   },
