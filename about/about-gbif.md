@@ -11,11 +11,11 @@ composition:
   - type: heroImage # the block type
   - data: about.que-es-gbif
     type: split
- - data: about.mision
+  - data: about.mision
     type: split
- - data: about.vision
+  - data: about.vision
     type: split
- - type: pageMarkdown  
+  - type: pageMarkdown  
 ---
 
 Conoce más sobre cómo opera GBIF en este video.
