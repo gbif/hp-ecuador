@@ -4,6 +4,7 @@ date:   2023-04-12 11:00:00 -0500
 categories: ["Convocatorias"]
 lang-ref: for authors
 background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F3MKHUCDqtzQWr4C7HyKV3a%2Fc03e38528d352bcb7eed22a53c71c7f0%2FGRA-2023-hero-es.png
+toc: true
 ---
 
 La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el [Premio Investigadores Graduados 2023](https://www.gbif.org/es/news/6gyLOum00YsYc4OtVGK33Y/convocatoria-de-candidaturas-al-premio-gbif-para-investigadores-graduados-2023). Este programa anual tiene como objetivo **fomentar y reconocer la investigación y los descubrimientos innovadores en el ámbito de la informática de la biodiversidad por parte de los estudiantes de postgrado cuyos estudios de maestría y doctorado se basan en los datos mediados por GBIF**.
