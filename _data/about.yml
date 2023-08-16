@@ -17,7 +17,7 @@ mision:
     Movilizar los datos, las habilidades y las tecnologías necesarias para que la información completa sobre biodiversidad esté disponible gratuitamente para la ciencia y las decisiones que aborden la pérdida de biodiversidad y el desarrollo sostenible.     
   # img required
   background: https://api.gbif.org/v1/image/unsafe/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FTAMGadMCMITHriULViYqR%2F51f664167a15fcd2ced842e3a11f1d11%2Fmission-web-bg2.png
-  height: 41vh
+#  height: 41vh
   #split
 vision:
   reverse: true
@@ -26,4 +26,4 @@ vision:
     Un mundo en el que los mejores datos de biodiversidad posibles sustenten la investigación, las políticas y las decisiones.
   # img required
   background: https://api.gbif.org/v1/image/unsafe/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F3gpnkeBI7rpz7LRthkNxTW%2F97307e96c39e264d8c96294838b02ef8%2Fvision-veb2.png
-  height: 41vh
+ # height: 41vh
