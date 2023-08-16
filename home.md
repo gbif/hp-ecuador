@@ -18,6 +18,8 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: home.stats
+  - type: product
+    data: home.product
   - type: split
     data: examples.herbariumImageExample
   - type: features
