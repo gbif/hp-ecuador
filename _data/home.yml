@@ -36,3 +36,18 @@ product:
   - text: Download report
     href: http://example.com
     isPrimary: true
+
+jaguar:
+  reverse: false
+  title: "Plan de Acción para la conservación del Jaguar en Ecuador"
+  description: |      # required
+    El jaguar (Panthera onca) es el felino más grande del continente americano; en el Ecuador se encuentra presente en los bosques tropicales y subtropicales a ambos lados de la cordillera de los Andes (Tirira, 2017). Al estar en la cúspide de las cadenas tróficas, el jaguar es una especie clave para el mantenimiento de los ecosistemas que habita (Estes et al., 2011). Adicionalmente, el jaguar constituye un símbolo para la mayoría de nacionalidades indígenas donde habita esta especie. Actualmente este felino está peligro de extinción: la población de la Costa ha sido categorizada como En Peligro Crítico,mientras que la de la Amazonía como En Peligro. El éxito en la ejecución del presente plan de acción, dependerá del grado de cooperación in- terinstitucional, tanto público como privado, la participación de actores locales, y el nivel de compromiso y roles de cada uno de los acto- res dentro del plan, para lo cual se propone la conformación del Grupo Nacional de Trabajo del Jaguar (GNTJ). Finalmente, todas estas acciones deberán estar enmarcadas y sustentadas en una estrategia financiera, a través de un presupuesto referencial, que sirva de base para la búsqueda de financiamiento.
+  # img required
+  background: https://wwflac.awsassets.panda.org/img/screen_shot_2023_07_07_at_4_27_51_pm_780188.png
+ # imageLicense: |
+  #  *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
+  href: /about
+  cta:
+  - text: Descarga el documento
+    href: https://wwflac.awsassets.panda.org/downloads/plan_jaguar_2021_pc___15_junio_corregido.pdf
+    isPrimary: true
