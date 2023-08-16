@@ -15,8 +15,7 @@ composition:
     type: split
  - data: about.vision
     type: split
- - type: pageMarkdown
-  
+ - type: pageMarkdown  
 ---
 
 Conoce más sobre cómo opera GBIF en este video.
