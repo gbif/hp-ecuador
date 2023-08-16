@@ -8,14 +8,14 @@ stats:
       background: #assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
       href: /occurrence/search/?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=EC&limit=0">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?hostingOrg=c54097e6-0972-4acb-b849-eaeba29c917d&limit=0">100,000</span>
       description: Conjuntos de datos
       background: #/assets/images/landing_page/iconos_cifras/ico_conjuntoDatos_gris.png
       href: /dataset/search
-    - title: <span data-ajax-path="facets.0.counts.0.count" data-ajax-url="https://api.gbif.org/v1/dataset/search?facet=type&type=CHECKLIST&publishing_country=EC&limit=0">100,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
+    - title: <span data-ajax-path="facets.0.counts.0.count" data-ajax-url="https://api.gbif.org/v1/dataset/search?facet=type&type=CHECKLIST&hostingOrg=c54097e6-0972-4acb-b849-eaeba29c917d&limit=0">100,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
       description: Listas de chequeo
       background: #/assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png
-      href: /dataset/search?type=CHECKLIST
+      href: /dataset/search?hostingOrg=c54097e6-0972-4acb-b849-eaeba29c917d
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     #- title: "202"
      # description: Socios publicadores
