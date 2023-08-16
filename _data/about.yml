@@ -9,6 +9,7 @@ que-es-gbif:
   #   En Colombia, [la participación nacional en GBIF es facilitada por el SiB Colombia](https://www.gbif.org/country/EC/summary){:target="_blank"}, como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
   # img required
   background: https://api.gbif.org/v1/image/ZPl1P_q-y696LA5WTqLlXZCxLF8=/fit-in/1000x0/https%3A%2F%2Fbiodiversidad.co%2Facercade%2Fimagenes%2Fque-es-gbif-red.png
+
 #split
 mision:
   reverse: false
@@ -27,3 +28,6 @@ vision:
   # img required
   background: https://api.gbif.org/v1/image/unsafe/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F3gpnkeBI7rpz7LRthkNxTW%2F97307e96c39e264d8c96294838b02ef8%2Fvision-veb2.png
   height: 100vh
+
+
+  
