@@ -11,6 +11,11 @@ composition:
   - type: heroImage # the block type
   - data: about.que-es-gbif
     type: split
+ - data: about.mision
+    type: split
+ - data: about.vision
+    type: split
+ - type: pageMarkdown
   
 ---
 
