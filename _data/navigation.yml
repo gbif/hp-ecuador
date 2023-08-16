@@ -6,7 +6,7 @@
   menu: 
   - text: Datos de Ecuador
     href: /occurrence/search?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
-  - text: Datos publicados por nuestras instituciones
+  - text: Datos publicados por Ecuador
     href: /occurrence/search?publishingCountry=EC
   - text: Museos y herbarios
     href: /institution/search
