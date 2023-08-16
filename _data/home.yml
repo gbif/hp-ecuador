@@ -6,7 +6,7 @@ stats:
       klass: cifras
       description: Registros biológicos
       background: #assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
-      href: /data
+      href: /occurrence/search/?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=EC&limit=0">100,000</span>
       description: Conjuntos de datos
