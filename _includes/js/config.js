@@ -86,8 +86,8 @@ var siteConfig = {
       ]
     },
     highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'publisherKey', 'year', 'basisOfRecord', 'datasetName'],
-    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY'],
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY','DATASET','LITERATURE'],
+    //availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
     excludedFilters: ['publishingCountryCode']
   },
   dataset: {
@@ -97,10 +97,12 @@ var siteConfig = {
     excludedFilters: ['publishingCountryCode']
   },
   literature: {
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
+    //availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+    rootFilter: {
+      countriesOfCoverage: "EC",      
   },
   collection: {
-    availableCatalogues: ['PUBLISHER', 'COLLECTION', 'INSTITUTION'],
+    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
@@ -109,7 +111,7 @@ var siteConfig = {
     }
   },
   institution: {
-    availableCatalogues: ['PUBLISHER', 'COLLECTION', 'INSTITUTION'],
+    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
