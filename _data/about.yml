@@ -8,7 +8,7 @@ que-es-gbif:
      La red GBIF está coordinada a través de su Secretaría en Copenhague y proporciona a las instituciones proveedoras de datos de todo el mundo estándares comunes y herramientas de código abierto que les permiten compartir información sobre dónde y cuándo se han registrado las especies.
   #   En Colombia, [la participación nacional en GBIF es facilitada por el SiB Colombia](https://www.gbif.org/country/EC/summary){:target="_blank"}, como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
   # img required
-  background: https://api.gbif.org/v1/image/ZPl1P_q-y696LA5WTqLlXZCxLF8=/fit-in/1000x0/https%3A%2F%2Fbiodiversidad.co%2Facercade%2Fimagenes%2Fque-es-gbif-red.png
+  background: assets/images/about/2023-gbif.png
 
 #split
 mision:
