@@ -3,9 +3,9 @@ layout: compose
 title: Nodo GBIF Ecuador
 description: |
    Datos de biodiversidad.
-background: https://images.unsplash.com/photo-1568612836432-d882f3819af5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1728&q=80
+background: https://images.unsplash.com/photo-1455218043782-149aa7dc42c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80
 imageLicense: |
-height: 60vh
+height: 50vh
 composition:
   - type: heroImage # the block type
   - data: about.que-es-gbif
