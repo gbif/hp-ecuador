@@ -6,6 +6,7 @@ description: Lesser saw seas own have can’t kind Also to every own yielding th
 background:  https://static.inaturalist.org/photos/239501422/original.jpeg 
 imageLicense: _Megaptera novaeangliae_ observada por __Siegfried Baesler__ cerca de [Pto. López](https://ecuador.hp.gbif-staging.org/occurrence/search/?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXSwiZ2FkbUdpZCI6WyJFQ1UuMTQuMTdfMSJdfSwibXVzdF9ub3QiOnsib2NjdXJyZW5jZUlzc3VlIjpbIkNPVU5UUllfQ09PUkRJTkFURV9NSVNNQVRDSCJdfX0%3D), [Mira el registro](https://www.inaturalist.org/observations/139964582) 
 height: 90vh
+parallax: true
 cta:
   - text: Institutiones
     href: /institution/search
