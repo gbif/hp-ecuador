@@ -4,7 +4,7 @@ layout: home
 title: Explora la biodiversidad de Ecuador
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background:  https://static.inaturalist.org/photos/239501422/original.jpeg 
-imageLicense: _Megaptera novaeangliae_ [observada](https://www.inaturalist.org/observations/139964582) por Siegfried Baesler cerca de Pto. López.
+imageLicense: _Megaptera novaeangliae_ [observada](https://www.inaturalist.org/observations/139964582){:target="_blank"} por Siegfried Baesler cerca de Pto. López.
 height: 90vh
 parallax: true
 cta:
