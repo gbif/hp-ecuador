@@ -43,7 +43,7 @@ product:
     isPrimary: true
 
 jaguar:
-  reverse: false
+  align: right
   title: "Plan de Acción para la conservación del Jaguar en Ecuador"
   description: |      # required
     El jaguar (Panthera onca) es el felino más grande del continente americano; en el Ecuador se encuentra presente en los bosques tropicales y subtropicales a ambos lados de la cordillera de los Andes (Tirira, 2017). Al estar en la cúspide de las cadenas tróficas, el jaguar es una especie clave para el mantenimiento de los ecosistemas que habita (Estes et al., 2011). Adicionalmente, el jaguar constituye un símbolo para la mayoría de nacionalidades indígenas donde habita esta especie. Actualmente este felino está peligro de extinción: la población de la Costa ha sido categorizada como En Peligro Crítico,mientras que la de la Amazonía como En Peligro. 
@@ -53,6 +53,6 @@ jaguar:
   #  *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
   href: 
   cta:
-  - text: Descarga el documento
+  - text: Descarga el documento aquí
     href: https://wwflac.awsassets.panda.org/downloads/plan_jaguar_2021_pc___15_junio_corregido.pdf
     isPrimary: true
