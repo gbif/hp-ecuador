@@ -19,7 +19,7 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: home.stats
-  - type: product
+  - type: split
     data: home.jaguar
   - type: features
     data: examples.couldBeAnyName
