@@ -1,0 +1,45 @@
+---
+layout: base
+description: Default template for documentation
+composition:
+  - type: pageMarkdown
+---
+
+{% assign pageNavigationContent = site.data %}
+{% if page.sideNavigation %}
+  {% assign entries = page.sideNavigation | split: "." %}
+  {% for entry in entries %}
+    {% assign pageNavigationContent = pageNavigationContent[entry] %}
+  {% endfor %}
+{% endif %}
+
+<div class="documentation" id="documentation">
+  <a
+    role="button"
+    id="sidebarBurger"
+    class="sidebar-burger navbar-burger burger menu-toggle"
+    aria-label="menu"
+    aria-expanded="false"
+    data-target="documentation"
+  >
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+  </a>
+  <aside id="pageNavbar" class="documentation-sidebar pageNavbar menu">
+    {% if page.sideNavigation %}
+      {% for group in pageNavigationContent %}
+        {% if group.grouptitle %}
+          <p class="menu-label">{{ group.grouptitle }}</p>
+        {% endif %}
+        {% include navlist.html tree=group.content %}
+      {% endfor %}
+    {% else %}
+      {{ "No site navigation defined. Make sure to add `sideNavigation: sideNavigation.guides` or similar to your front matter describing where in the `_data` your nav definition is" | markdownify }}
+    {% endif %}
+  </aside>
+  <div class="documentation-content">
+    {% assign composition = page.composition | default: layout.composition %}
+    {% include composition.html composition=composition %}
+  </div>
+</div>
