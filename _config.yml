@@ -86,6 +86,11 @@ exclude:
   - .netlify.toml
   - .README.md
 
+asciidoctor:
+  base_dir: :docdir
+  safe: unsafe
+  ext: asciidoc 
+  
 permalink: pretty # will strip extensions like .html from urls
 
 defaults:
