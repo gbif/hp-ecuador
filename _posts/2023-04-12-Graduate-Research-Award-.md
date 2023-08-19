@@ -2,7 +2,7 @@
 title:  "Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023"
 date:   2023-04-12 11:00:00 -0500
 categories: ["Convocatorias"]
-lang-ref: for authors
+lang-ref:
 background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F3MKHUCDqtzQWr4C7HyKV3a%2Fc03e38528d352bcb7eed22a53c71c7f0%2FGRA-2023-hero-es.png
 toc: true
 ---
