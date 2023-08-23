@@ -8,7 +8,7 @@ stats:
       background: assets/images/home/stats-icons/occurrence.svg
       href: /occurrence/search/?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
-    - title: <span data-ajax-path="https://api.gbif.org/v1/occurrence/search?publishingCountry=EC&basisOfRecord=PRESERVED_SPECIMEN">100,000</span>
+    - title: <span data-ajax-path="https://api.gbif.org/v1/occurrence/search?publishingCountry=EC&basisOfRecord=PRESERVED_SPECIMEN&limit=0"></span>
       klass: cifras
       description: Especímenes digitalizados
       background: #assets/images/home/stats-icons/occurrence.svg
