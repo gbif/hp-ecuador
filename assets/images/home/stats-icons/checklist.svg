@@ -16,7 +16,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"><title
-     id="title862">iNaturalist</title><defs
+     id="title1">Checklist</title><defs
      id="defs2" /><sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.86268849"
      inkscape:cx="249.80048"
-     inkscape:cy="245.16381"
+     inkscape:cy="244.00465"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
@@ -80,8 +80,8 @@
        inkscape:locked="false" /></sodipodi:namedview><metadata
      id="metadata5"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>iNaturalist</dc:title><cc:license
-           rdf:resource="http://scripts.sil.org/OFL" /><dc:subject><rdf:Bag><rdf:li>iNaturalist</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /><dc:title>Checklist</dc:title></cc:Work><cc:License
          rdf:about="http://scripts.sil.org/OFL"><cc:permits
            rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
            rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
