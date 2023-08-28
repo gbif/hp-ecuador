@@ -86,7 +86,7 @@ var siteConfig = {
       ]
     },
     highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'publisherKey', 'year', 'basisOfRecord', 'datasetName'],
-    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS'],
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS', 'CLUSTERS'],
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
     excludedFilters: ['publishingCountryCode']
   },
@@ -98,7 +98,7 @@ var siteConfig = {
   },
   literature: {
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
-     rootFilter: {{countriesOfCoverage: ['EC']}
+     rootFilter: {countriesOfCoverage: ['EC']}
   },
   collection: {
     availableCatalogues: ['PUBLISHER', 'COLLECTION', 'INSTITUTION'],
@@ -118,7 +118,9 @@ var siteConfig = {
       active: true
     },
     publisher: {
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+      rootFilter: {country: ['EC']}
+      
   },
     mapSettings: {
       enabled: true,
