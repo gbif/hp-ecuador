@@ -97,7 +97,8 @@ var siteConfig = {
     excludedFilters: ['publishingCountryCode']
   },
   literature: {
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+     rootFilter: {{countriesOfCoverage: ['EC']}
   },
   collection: {
     availableCatalogues: ['PUBLISHER', 'COLLECTION', 'INSTITUTION'],
