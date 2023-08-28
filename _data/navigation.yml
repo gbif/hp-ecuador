@@ -13,14 +13,22 @@
   - text: Coleciones científicas
     href: /collection/search
   
-- text: Example pages
+- text: Compartir
   menu: # Dropdown menu (one level deep only)
   - text: Simple
     href: /example-pages/simple
   - text: Complex
     href: /example-pages/complex
-    
-- text: Links
+       
+- text: Noticias
+  href: /news/
+  
+- text: Acerca de
+  menu: # Dropdown menu (one level deep only)
+  - text: ¡Qué es GBIF?
+    href: /about/about-gbif
+
+- text: Más
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -34,11 +42,3 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-    
-- text: Noticias
-  href: /news/
-  
-- text: Acerca de
-  menu: # Dropdown menu (one level deep only)
-  - text: ¡Qué es GBIF?
-    href: /about/about-gbif
