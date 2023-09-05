@@ -15,6 +15,8 @@
   
 - text: Compartir
   menu: # Dropdown menu (one level deep only)
+  - text: Por qué compartir datos
+    href: /pages/compartir/por-que
   - text: Simple
     href: /example-pages/simple
   - text: Complex
