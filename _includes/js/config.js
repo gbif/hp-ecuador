@@ -123,7 +123,7 @@ var siteConfig = {
       
   },
     mapSettings: {
-      enabled: true,
+      enabled: false,
       lat: -1.4481247373907848,
       lng: -81.95287504757923,
       zoom: 5.654
