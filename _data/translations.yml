@@ -3,5 +3,5 @@ relatedPosts:
 differentLanguage:
   es: "Esta página está disponible en los siguientes idiomas"
 
-terms:
-  es: "Utilizamos cookies en nuestro sitio web. Algunas son técnicamente necesarias, otras nos ayudan a mejorar su experiencia de usuario. Puede rechazar las cookies no esenciales seleccionando "Rechazar". Consulte nuestra [Política de privacidad](/privacy-policy) para obtener más información sobre nuestras prácticas de privacidad y el uso de cookies."
+#terms:
+ # es: "Utilizamos cookies en nuestro sitio web. Algunas son técnicamente necesarias, otras nos ayudan a mejorar su experiencia de usuario. Puede rechazar las cookies no esenciales seleccionando "Rechazar". Consulte nuestra [Política de privacidad](/privacy-policy) para obtener más información sobre nuestras prácticas de privacidad y el uso de cookies."
