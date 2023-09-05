@@ -2,9 +2,8 @@
 layout: post # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Simple page
 description: This page is using a simple predefined layout with an image, a title and some body text
-background: /assets/images/placeholders/moss.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+background: https://multimedia.agouti.eu/assets/641d3bc8-19f7-4660-a116-9f0e7d48e7a2/file #/assets/images/placeholders/moss.jpg
+imageLicense: _Panthera onca_ (Linnaeus, 1758) [observada](https://www.gbif.org/occurrence/4117088327){:target="_blank"} en el Refugio de Vida Silvestre El Pambilar [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/){:target="_blank"}
 height: 70vh
 ---
 
