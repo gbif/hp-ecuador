@@ -1,11 +1,26 @@
 = GBIF Document Template
-Author One <communication@gbif.org>; Author Two
+:authorcount: 3
+:author_1: Author{nbsp}U
+:author_2: Autore{nbsp}D
+:author_3: Auteur{nbsp}T
+// Title
+:title-page-background-image: image::img/web/photo.jpg[position=top center]
+
+// Revision
+:revnumber: {git-metadata-sha-short}
+:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+
+// Contents, sections
 :toc: left
 :toclevels: 3
 :numbered:
-:revnumber: {git-metadata-sha-short}
-:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
-:title-page-background-image: image::img/web/photo.jpg[position=top center]
+:sectnumlevels: 3
+:pagenums:
+:icons: font
+:xrefstyle: short
+:section-refsig: §
+
+//license
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ifdef::backend-html5[]
