@@ -1,0 +1,14 @@
+= Introducción
+== ¿Qué es Agouti?
+
+Las cámaras trampa constituyen un método sencillo y no invasivo de estudiar la fauna salvaje. Sin embargo, procesar manualmente los millones de imágenes que genera un estudio típico se convierte rápidamente en todo un reto. Aprovechando la inteligencia artificial, Agouti puede reconocer automáticamente muchas especies y filtrar las imágenes en blanco.
+
+Agouti es una solución completa para organizaciones y profesionales que utilizan cámaras trampa para estudiar la fauna salvaje. Permite a los usuarios de cámaras trampa organizar estudios, procesar imágenes de forma eficaz, obtener una salida estandarizada de los resultados y archivar los datos de forma segura. Agouti sigue el estándar https://tdwg.github.io/camtrap-dp/["_Camera Trap Data Package_"] (Paquete de Datos de Trampa), un formato de intercambio de datos desarrollado por la comunidad para datos de cámaras trampa.
+
+== Flujo de Trabajo
+
+. Luego de recoger las cámaras sobre el terreno, los usuarios cargan todo el contenido de las tarjetas de memoria en Agouti. 
+. El usuario introduce la ubicación y los detalles del despliegue y Agouti extrae automáticamente las marcas de tiempo y demás metadatos de las imágenes, y agrupa las imágenes en secuencias que representan el mismo evento. 
+. A continuación, tiene la opción de aplicar uno de nuestros modelos automáticos de clasificación de especies, o inspeccionar cada secuencia de imágenes manualmente y anotarlas con una o más observaciones, utilizando una sencilla interfaz.
+
+Siempre que lo desee, sus datos pueden exportarse como un Paquete de Datos de Trampa de Cámara estandarizado para su análisis en software como R. Recomendamos utilizar el paquete R https://inbo.github.io/camtraptor/[_camtraptor_] como punto de partida. Ofrece varias funciones de uso común, incluida la conversión a otros formatos.

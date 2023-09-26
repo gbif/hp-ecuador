@@ -1,0 +1,31 @@
+= Primeros pasos
+
+Antes de iniciar con Agouti se debe contar con una cuenta de usuario para luego pedir acceso al proyecto relacioado con su área protegida
+
+== Crear una cuenta
+. En su navegador abra la siguiente página web https://www.agouti.eu.
+. Seleeciones su lenguage prefiero en la parte superior derecha de la ventana.
+. De _click_ en "Regsitro" para crear una cuenta.
+. Complete el promulario y elija una contraseña
+
+== Solicite acceso a un proyecto 
+
+Envie un correo a __correo electrónico__ solicitando la creación y acceso a un proyecto con la siguiente información:
+
+- Nombre del área Protegida
+- Correo electrónico de quien adminsitrará el proyecto 
+- Correso electrónicos adicionales de quienes tendran acceso con los permisos requeridos (ver sección permisos)
+- Listado de especies que se espera encontrar en las cámaras trampa.
+
+Un vez su proyecto haya sido creado se les enviara una inivtación para unirse de acuerdo a los permisos requeridos para cada cuenta. 
+
+=== Permisos 
+
+[%autowidth]
+|===
+|*Rol* | *Descripción* 
+|Investigador principal| Persona responsable por el proyecto
+|Experto en taxonomía| Experto en identificar animales
+|Procesador de fotos|SOlo puede subier nuevos despliegues de cámaras, anotar secuencias o navegar en los despliegeus asignados al usuario
+|Voluntario|Rol con menoa permisos, solo puede anotar despligues ya importados.
+|===
