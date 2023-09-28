@@ -1,5 +1,9 @@
 ---
 layout: page # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
+composition:
+  - type: heroImage
+  - type: pageMarkdown
+lang: es
 title: ¿Por qué compartir datos?
 description: #This page is using a simple predefined layout with an image, a title and some body text
 background: https://multimedia.agouti.eu/assets/641d3bc8-19f7-4660-a116-9f0e7d48e7a2/file #/assets/images/placeholders/moss.jpg
