@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Explora la biodiversidad de Ecuador
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: Ecuador es uno de los 17 países megadiversos del mundo. Nuestro territorio alberga el 75% de todos los animales vertebrados y plantas del planeta, es decir, que aproximadamente dan hogar a 219 mil especies en tan solo el 10% del territorio planetario.
 background:  https://static.inaturalist.org/photos/239501422/original.jpeg 
 imageLicense: _Megaptera novaeangliae_ [observada](https://www.inaturalist.org/observations/139964582){:target="_blank"} por Siegfried Baesler cerca de Pto. López.
 height: 90vh
