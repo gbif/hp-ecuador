@@ -1,0 +1,11 @@
+guides:
+- grouptitle: adoc
+  content:
+  - title: Colofón
+    path: /colophon
+  - title: Prefacio
+    path: /preface
+  - title: Capítulo 1
+    path: /100
+  - title: Capítulo 2
+    path: /200
