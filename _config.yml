@@ -35,6 +35,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-asciidoc
 
 remote_theme: gbif/jekyll-hp-base-theme
 
@@ -95,7 +96,7 @@ exclude:
 asciidoctor:
   base_dir: :docdir
   safe: unsafe
-  ext: asciidoc 
+  ext: adoc 
   
 permalink: pretty # will strip extensions like .html from urls
 
