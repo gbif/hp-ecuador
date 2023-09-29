@@ -1,0 +1,51 @@
+---
+layout: documentation
+permalink: /adoc # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
+title: "layout: documentation"
+description: The file behind this page can be explored at [`pages/layout/documentation.md`](https://github.com/gbif/jekyll-hp-base-theme/blob/master/pages/layout/documentation.md)
+sideNavigation: # sideNavigation.guides
+toc: true
+---
+
+// layout: documentation
+
+= GBIF Document Template
+:authorcount: 3
+:author_1: Author{nbsp}U
+:author_2: Autore{nbsp}D
+:author_3: Auteur{nbsp}T
+// Title
+:title-page-background-image: image::img/web/photo.jpg[position=top center]
+
+// Revision
+:revnumber: {git-metadata-sha-short}
+:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+
+// Contents, sections
+:toc: left
+:toclevels: 3
+:numbered:
+:sectnumlevels: 3
+:pagenums:
+:icons: font
+:xrefstyle: short
+:section-refsig: §
+
+//license
+:license: https://creativecommons.org/licenses/by-sa/4.0/
+
+ifdef::backend-html5[]
+languageLinks:combined[]
+endif::backend-html5[]
+
+:sectnums!:
+
+include::colophon.adoc[]
+
+include::preface.adoc[]
+
+:sectnums:
+
+include::100.adoc[]
+
+include::200.adoc[]
