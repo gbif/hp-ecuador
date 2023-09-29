@@ -1,7 +1,7 @@
 ---
 layout: documentation
 permalink: /adoc # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
-title: #"layout: documentation"
+title: # "layout: documentation"
 description: # The file behind this page can be explored at [`pages/layout/documentation.md`](https://github.com/gbif/jekyll-hp-base-theme/blob/master/pages/layout/documentation.md)
 sideNavigation: # docs.sideNavigation.adoc
 toc: false
@@ -35,7 +35,7 @@ toc: false
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ifdef::backend-html5[]
-languageLinks:combined[]
+languageLinks::combined[]
 endif::backend-html5[]
 
 :sectnums!:
