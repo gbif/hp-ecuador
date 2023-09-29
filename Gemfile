@@ -20,6 +20,11 @@ group :jekyll_plugins do
   gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor"
 end
 
+# https://github.com/asciidoctor/jekyll-asciidoc
+group :jekyll_plugins do
+  gem 'jekyll-asciidoc'
+end
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
