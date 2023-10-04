@@ -65,6 +65,7 @@ jaguar:
 
 news:
   title: Noticias
+  description: |
     Consulta aquí algunas noticias sobre la comunidad.
   features:
     - title: La estudiante ugandesa Dorothy Akoth gana el Premio GBIF 2023 para Investigadores Graduados # required
