@@ -62,3 +62,28 @@ jaguar:
   - text: Descarga el documento aquí
     href: https://wwflac.awsassets.panda.org/downloads/plan_jaguar_2021_pc___15_junio_corregido.pdf
     isPrimary: true
+
+news:
+  title: Noticias
+    Consulta aquí algunas noticias sobre la comunidad.
+  features:
+    - title: La estudiante ugandesa Dorothy Akoth gana el Premio GBIF 2023 para Investigadores Graduados # required
+      description: |      # required
+        Una estudiante de maestría de la Universidad de Makarere se convierte en la primera galardonada de Uganda -y la segunda de África- en ser seleccionada por mejorar el conocimiento y la comprensión de las especies de peces autóctonas del país.
+      href: https://www.gbif.org/es/news/6qTuv5Xf1qa05arROvx7Y1/la-estudiante-ugandesa-dorothy-akoth-gana-el-premio-gbif-2023-para-investigadores-graduados
+      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1InwNb3fR0n8X00le9uTOV%2F0f254e5b44c775408c86eaa55e1d0aaf%2FBimaShots_NARO_Dorothy-hero.jpg
+      imageLicense: Dorothy Akoth, Master's student at Makarere University and 2023 GBIF Graduate Researchers Award winner. Photo by Christine Elong / National Fisheries Resources Research Institute.   
+    - title: Estudiante portugués Andrés Vicente Liz gana el premio 2023 GBIF para los Investigadores Graduados # required
+      description: |      # required
+        El doctorando gallego, y segundo ganador nominado por Portugal, ofrece una visión integrada de la dinámica detrás de la diversidad genética y la biogeografía de los vertebrados en el Sahara-Sahel.
+      href: https://www.gbif.org/es/news/9SpIV0pXkqfAAhJ6s0IvJ/estudiante-portugues-andres-vicente-liz-gana-el-premio-2023-gbif-para-los-investigadores-graduados
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F6iDin9Yb31ndxoJBnnn8tP%2F835f363e2ff4b9771ed580a14f1b5a9c%2Fandre-liz-hero.jpg
+      imageLicense: André Vicente Liz, estudiante de doctorado en el Centro de Investigación en Biodiversidad y Recursos Genéticos (CIBIO-InBIO) de la Universidad de Oporto y ganador del Premio GBIF Investigadores Graduados 2023. Foto de Xarxa Quiroga Álvarez.
+      # categories: [drawings] # optional    
+    - title: Fly moving land # required
+      description: |      # required
+        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      href: /about
+      background: /assets/images/placeholders/blocks2.png
+      imageLicense: None for this image, but normally you would provide one here    
