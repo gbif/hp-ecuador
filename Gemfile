@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-liquify"
   gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor"
+  gem 'jekyll-extlinks', '~> 0.0.5'
 end
 
 # https://github.com/asciidoctor/jekyll-asciidoc
