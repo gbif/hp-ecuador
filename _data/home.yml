@@ -60,7 +60,7 @@ jaguar:
   href: 
   cta:
   - text: Descarga el documento aquí
-    href: https://wwflac.awsassets.panda.org/downloads/plan_jaguar_2021_pc___15_junio_corregido.pdf
+    href: <a href="https://wwflac.awsassets.panda.org/downloads/plan_jaguar_2021_pc___15_junio_corregido.pdf" target="_blank">example</a>
     isPrimary: true
 
 news:
