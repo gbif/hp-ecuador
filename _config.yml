@@ -35,7 +35,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-asciidoc
+  #- jekyll-asciidoc
   - jekyll-target-blank
 
 #  - jekyll-extlinks
@@ -96,10 +96,10 @@ exclude:
   - .netlify.toml
   - .README.md
 
-asciidoctor:
-  base_dir: :docdir
-  safe: unsafe
-  ext: adoc 
+#asciidoctor:
+#  base_dir: :docdir
+#  safe: unsafe
+#  ext: adoc 
 
 extlinks:
   attributes: {rel: nofollow, target: _blank}
