@@ -35,8 +35,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  #- jekyll-asciidoc
-  - jekyll-target-blank
+  - jekyll-asciidoc
+  #- jekyll-target-blank
 
 #  - jekyll-extlinks
 
@@ -96,14 +96,10 @@ exclude:
   - .netlify.toml
   - .README.md
 
-#asciidoctor:
-#  base_dir: :docdir
-#  safe: unsafe
-#  ext: adoc 
-
-extlinks:
-  attributes: {rel: nofollow, target: _blank}
-  rel_exclude: ['ambiente.gob.ec']
+asciidoctor:
+  base_dir: :docdir
+  safe: unsafe
+  ext: adoc 
 
 permalink: pretty # will strip extensions like .html from urls
 
