@@ -36,9 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-asciidoc
-  #- jekyll-target-blank
-
-#  - jekyll-extlinks
+  - jekyll-target-blank
 
 remote_theme: gbif/jekyll-hp-base-theme
 

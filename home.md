@@ -21,7 +21,7 @@ composition:
     data: home.stats
   - type: split
     data: home.jaguar
-  - type: features
+  - type: product
     data: home.news
 permalink: /
 ---
