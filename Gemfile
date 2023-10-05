@@ -15,15 +15,11 @@ gem "jekyll-remote-theme"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem 'jekyll-asciidoc', '~> 3.0' # https://github.com/asciidoctor/jekyll-asciidoc
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-liquify"
   gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor"
-  gem 'jekyll-extlinks', '~> 0.0.5'
-end
-
-# https://github.com/asciidoctor/jekyll-asciidoc
-group :jekyll_plugins do
-  gem 'jekyll-asciidoc', '~> 3.0'
+  gem 'jekyll-extlinks', '~> 0.0.5' #https://rubygems.org/gems/jekyll-extlinks
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
