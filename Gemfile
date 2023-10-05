@@ -23,7 +23,7 @@ end
 
 # https://github.com/asciidoctor/jekyll-asciidoc
 group :jekyll_plugins do
-  gem 'jekyll-asciidoc'
+  gem 'jekyll-asciidoc', '~> 3.0'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

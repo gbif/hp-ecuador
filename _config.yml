@@ -98,7 +98,11 @@ asciidoctor:
   base_dir: :docdir
   safe: unsafe
   ext: adoc 
-  
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['ambiente.gob.ec']
+
 permalink: pretty # will strip extensions like .html from urls
 
 defaults:
