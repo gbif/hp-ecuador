@@ -17,11 +17,16 @@ gem "jekyll-remote-theme"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-liquify"
-  gem 'jekyll-asciidoc' # https://github.com/asciidoctor/jekyll-asciidoc
   gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor"
   gem 'jekyll-target-blank' # https://github.com/keithmifsud/jekyll-target-blank
 end
 # gem 'jekyll-extlinks' # https://rubygems.org/gems/jekyll-extlinks
+
+group :jekyll_plugins do
+  gem 'jekyll-asciidoc' # https://github.com/asciidoctor/jekyll-asciidoc
+end
+
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
