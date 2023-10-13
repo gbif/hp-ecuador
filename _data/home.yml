@@ -65,6 +65,8 @@ jaguar:
 
 curso:
   align: right
+  reverse: true
+  pretitle: CURSOS
   title: "Taller GBIF.es: Estandarización y publicación de datos de biodiversidad en GBIF"
   description: |      # required
     En este taller teórico-práctico tiene como objetivo enseñar a los participantes a elaborar, usar y publicar datos de biodiversidad a través de la red GBIF. Se abordarán aspectos relativos a la calidad, limpieza y depuración de los datos, estandarización y publicación a través de la herramienta Integrated Publishing Toolkit (IPT) así como la preparación de manuscritos para la publicación de data papers.
