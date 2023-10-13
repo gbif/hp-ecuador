@@ -63,6 +63,21 @@ jaguar:
     href: https://wwflac.awsassets.panda.org/downloads/plan_jaguar_2021_pc___15_junio_corregido.pdf
     isPrimary: true
 
+curso:
+  align: right
+  title: "Taller GBIF.es: Estandarización y publicación de datos de biodiversidad en GBIF"
+  description: |      # required
+    En este taller teórico-práctico tiene como objetivo enseñar a los participantes a elaborar, usar y publicar datos de biodiversidad a través de la red GBIF. Se abordarán aspectos relativos a la calidad, limpieza y depuración de los datos, estandarización y publicación a través de la herramienta Integrated Publishing Toolkit (IPT) así como la preparación de manuscritos para la publicación de data papers.
+ # img required
+  background: https://elearning.gbif.es/courses/PUBLICACIONABIERTO/document/Recursos/imagen-taller.png
+ # imageLicense: |
+  #  *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
+  href: 
+  cta:
+  - text: Accede al curso en GBIF.ES
+    href: https://elearning.gbif.es/courses/PUBLICACIONABIERTO
+    isPrimary: true
+
 news:
   title: Noticias
   description: |

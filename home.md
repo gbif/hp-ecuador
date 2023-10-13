@@ -19,9 +19,11 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: home.stats
-  - type: split
-    data: home.jaguar
   - type: product
+    data: home.curso   
+  - type: product
+    data: home.jaguar
+  - type: features
     data: home.news
 permalink: /
 ---
