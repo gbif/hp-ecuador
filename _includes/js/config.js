@@ -55,7 +55,7 @@ var siteConfig = {
      rootFilter: {countriesOfCoverage: ['EC']}
   },
   collection: {
-    availableCatalogues: ['PUBLISHER', 'COLLECTION', 'INSTITUTION'],
+    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
@@ -64,7 +64,7 @@ var siteConfig = {
     }
   },
   institution: {
-    availableCatalogues: ['PUBLISHER', 'COLLECTION', 'INSTITUTION'],
+    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
