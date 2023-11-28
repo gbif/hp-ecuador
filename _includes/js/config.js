@@ -6,53 +6,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 
 var siteConfig = {
   routes: {
-    occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      // route: '/data'
-    },
-    collectionKey: {
-      url: ({key}) => `/collection/${key}`,
-      isHref: true,
-      route: '/collection/:key'
-    },
-    collectionSearch: {
-      url: ({queryString, basename}) => `${basename ? `/${basename}` : ''}/collection/search`,
-      isHref: true,
-      route: '/collection/search'
-    },
-    collectionKeySpecimens: {
-      url: ({key}) => `/collection/${key}/specimens`,
-      isHref: false,
-      route: '/collection/:key/specimens'
-    },
-    collectionKeyDashboard: {
-      url: ({key}) => `/collection/${key}/specimens`,
-      isHref: false,
-      route: '/collection/:key/dashboard'
-    },
-  
-    institutionKey: {
-      url: ({key}) => `/institution/${key}`,
-      isHref: true,
-      route: '/institution/:key'
-    },
-    institutionKeySpecimens: {
-      url: ({key}) => `/institution/${key}`,
-      isHref: false,
-      route: '/institution/:key/specimens'
-    },
-    institutionKeyCollections: {
-      url: ({key}) => `/collections`,
-      isHref: false,
-      route: '/institution/:key/collections'
-    },
-    institutionSearch: {
-      url: ({queryString, basename}) => `${basename ? `/${basename}` : ''}/institution/search`,
-      isHref: true,
-      route: '/institution/search'
-    },
-
+    enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
   },
   occurrence: {
     mapSettings: {
@@ -91,7 +45,7 @@ var siteConfig = {
     excludedFilters: ['publishingCountryCode']
   },
   dataset: {
-    //availableCatalogues: ['DATASET', 'PUBLISHER'],
+    availableCatalogues: ['DATASET', 'PUBLISHER'],
     rootFilter: {publishingCountry: 'EC'},
     highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
     excludedFilters: ['publishingCountryCode']
