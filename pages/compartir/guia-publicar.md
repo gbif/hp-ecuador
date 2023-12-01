@@ -14,8 +14,6 @@ height: 80vh
 
 Desde el Nodo Nacional de GBIF, apoyamos el análisis de la biodiversidad y la conservación mediante la agregación de las contribuciones de los proveedores de datos, y el posterior procesamiento e indexación de los datos para que se puedan buscar y reutilizar abiertamente.
 
-
 Al compartir los datos sobre biodiversidad, los proveedores de datos aumentan el conjunto de información accesible para la investigación, el seguimiento y la elaboración de informes sobre el estado de la biodiversidad de Ecuador. Los datos de fácil acceso y calidad pueden servir de mejor apoyo a la investigación y a la toma de decisiones basadas en evidencias por parte de las autoridades de conservación y gestión.
-
 
 Cuando los proveedores de datos comparten sus datos con GBIF:
