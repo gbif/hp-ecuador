@@ -42,14 +42,14 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # For use by the 'standardPrivacy' layout
 privacy:
-  name: Ministerio del AMbiente, Agua y Transición Ecológica
+  name: Ministerio del Ambiente, Agua y Transición Ecológica
   domain: ambiente.gob.ec
   contactEmail: biodiversidad@ambiente.gob.ec
 #  helpdeskEmail: helpdesk@your-domain.org
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
-  enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
+  enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
   GA_ID: "G-BEWGR2H3JN" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
   termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
