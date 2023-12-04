@@ -7,11 +7,10 @@ columns:
       [<img src="/assets/images/home/footer/MAATE-2024.png"/>](https://www.ambiente.gob.ec/)
   - name: Contacto
     description: | # Can be Markdown
-      * Calle Madrid 1159 y Andalucía
-      * Código Postal: 170525
+      * Calle Madrid 1159 y Andalucía, 170525
       * Quito - Ecuador
-      * Teléfono: +593 2398 7600 ext. 1423
-    connectIcons: true
+      * +593 2398 7600 ext. 1423
+    connectIcons: false
   
   
    #- name: Partners
