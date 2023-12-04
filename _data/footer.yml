@@ -3,7 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  #- name: Partners
+  - descriotion: | 
+      [<img src="/assets/images/home/footer/MAATE-2024.png"/>](https://www.ambiente.gob.ec/)
+    #- name: Partners
    # links:
     #- text: Name of project partner 1
      # href: http://example.com
