@@ -3,9 +3,18 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - descriotion: | 
+  - description: | 
       [<img src="/assets/images/home/footer/MAATE-2024.png"/>](https://www.ambiente.gob.ec/)
-    #- name: Partners
+  - name: Contacto
+    description: | # Can be Markdown
+      * Calle Madrid 1159 y Andalucía
+      * Código Postal: 170525
+      * Quito - Ecuador
+      * Teléfono: +593 2398 7600 ext. 1423
+    connectIcons: true
+  
+  
+   #- name: Partners
    # links:
     #- text: Name of project partner 1
      # href: http://example.com
@@ -16,14 +25,6 @@ columns:
   #  description: | # Can be Markdown
   #    This project is open source. See `_data/footer.yml` to customize the footer.
   
-  - name: Contacto
-    description: | # Can be Markdown
-      * Calle Madrid 1159 y Andalucía
-      * Código Postal: 170525
-      * Quito - Ecuador
-      * Teléfono: +593 2398 7600 ext. 1423
-    connectIcons: true
-
   # EXAMPLE
   #- name: Group name
   #  description: |
