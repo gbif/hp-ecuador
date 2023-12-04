@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ecuador.hp.gbif-staging.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gbif.ambiente.gob.ec/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ambiente_Ec # if you have an account you want to link to. Else comment this line out
 github_username:  gbif-ec # if you have an account you want to link to. Else comment this line out
 
@@ -49,7 +49,7 @@ privacy:
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
-  enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
+  enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
   GA_ID: "G-BEWGR2H3JN" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
   termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
