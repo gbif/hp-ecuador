@@ -25,6 +25,8 @@ composition:
     data: home.jaguar
   - type: features
     data: home.news
+  - type: features
+    data: home.stories  
 permalink: /
 ---
 
