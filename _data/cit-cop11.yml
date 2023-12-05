@@ -1,0 +1,23 @@
+home:
+title: 11va Conferencia de las partes
+description: |
+  De la Convención
+  Manta, Ecuador
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/237489418/original.jpg
+imageLicense: _Chelonia mydas_ Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
+cta: # OPTIONAL list of buttons
+- text: VENUE
+  href: 
+  isPrimary: true # OPTIONAL
+
+news:
+  title: Noticias
+  description: |
+    Consulta aquí algunas noticias sobre la comunidad.
+  features:    
+    - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023 # required
+      description: |      # required
+        La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el Premio Investigadores Graduados 2023, consulta las bases en la publicación.
+      href: /post/2023/graduate-research-award/
+      background: https://api.gbif.org/v1/image/VLC8iHvXx45koWSvxXuDpOnxQMY=/fit-in/1600x0/https%3A%2F%2Fapi.gbif.org%2Fv1%2Fimage%2Funsafe%2F1170x422%2Fhttp%3A%252F%252Fimages.ctfassets.net%252Fuo17ejk9rkwj%252F3MKHUCDqtzQWr4C7HyKV3a%252Fc03e38528d352bcb7eed22a53c71c7f0%252FGRA-2023-hero-es.png
+      imageLicense: # None for this image, but normally you would provide one here    
