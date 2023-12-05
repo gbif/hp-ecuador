@@ -1,4 +1,5 @@
 ---
+href: cop11-home
 layout: compose
 klass: compositionBlocks
 title: 11va Conferencia 
@@ -7,7 +8,7 @@ The theme lets you stitch blocks together from the frontmatter. Below is example
 background: 
 imageLicense: 
 hasTextShadow: true
-permalink: /cit-cop11
+permalink: /cit-cop11/home
 composition:
 - type: heroImage
   # data: compose.someFile.someProperty # no data provided, instead page data will be used
