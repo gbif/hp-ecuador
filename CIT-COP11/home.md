@@ -1,26 +1,34 @@
 ---
-lang-ref: cop11-home
-layout: compose
-klass: compositionBlocks
-title: COP 11 Ecuador
-description: |
-    11va Reunión de la Conferencia de las Partes de la 
-    Manta, Ecuador
-background:  https://static.inaturalist.org/photos/239501422/original.jpeg 
-imageLicense: _Megaptera novaeangliae_ [observada](https://www.inaturalist.org/observations/139964582){:target="_blank"} por Siegfried Baesler cerca de Pto. López.
-hasTextShadow: true
-permalink: /CIT-COP11/home/
-composition:
-  - type: heroImage # the block type
-  - type: stats
-    data: home.stats
-  - type: split
-    data: home.curso   
-  - type: product
-    data: home.jaguar
-  - type: features
-    data: home.news
-  - type: features
-    data: cop11.cards  
-permalink: /
+href: cop11-home
+layout: post
+title: Home
+# description: Species occurrence data for the United States and U.S. Territories.
+background: /assets/images/GB30-hero-bg-10-18.jpg
+imageLicense: |
+  llustration of Australasian Darter [*Anhinga novaehollandiae* (Gould, 1847)](https://www.gbif.org/species/2482085) from Companion to Gould's Handbook; or, Synopsis of the birds of Australia, 1877 via the [Biodiversity Heritage Library](https://flic.kr/p/bmFhGL)
+
 ---
+
+Por favor, contacte a la Secretaría de la CIT si tiene alguna pregunta relacionada con:
+- Reglas de procedimiento para las reuniones de la conferencia de las partes
+- La Agenda
+- Reglas sobre la ayuda financiera para asistir al evento
+- Si se necesita de uanCarta de invitación
+
+Secretaria Ejecutiva de la CIT
+Email: [secretario@iacseaturtle.org](mailto:secretario@iacseaturtle.org)  
+Phone:  
+
+Por favor, contacte a al anfitrión nacional si tiene alguna pregunta relacionada con información practica sobre su estancia en Manta:
+
+Dr Andre Zerger, Director, Atlas of Living Australia  
+Email: [andre.zerger@csiro.au](mailto:andre.zerger@csiro.au)  
+Phone: +61 407 535 115  
+
+Professor Andrew Young, National Research Collections Australia  
+Email: [andrew.young@csiro.au](mailto:andrew.young@csiro.au)  
+Phone: +61 413 233 952  
+
+Heather Walsh, Atlas of Living Australia  
+Email: [heather.walsh@csiro.au](heather.walsh@csiro.au)  
+Phone: +61 401 228 620  
