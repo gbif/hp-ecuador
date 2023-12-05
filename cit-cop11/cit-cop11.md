@@ -18,5 +18,5 @@ composition:
 - type: heroImage
   #data: cit-cop11.home
 - type: features
-  data: cit-cop11.news
+  data: cit-cop11.welcome
 ---

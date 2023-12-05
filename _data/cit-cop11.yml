@@ -1,23 +1,28 @@
 home:
 title: 11va Conferencia de las partes
 description: |
-  De la Convención
-  Manta, Ecuador
+  De la Convención Interamericana para la Protección y Conservación de las Tortugas Marinas,
+  Manta, Ecuador,
+  25 - 28 Octubre, 2023
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/237489418/original.jpg
-imageLicense: _Chelonia mydas_ [observada](https://www.inaturalist.org/observations/138910530){:target="_blank"} por scienceco_fn cerca de Manta.
+imageLicense: |
+  _Chelonia mydas_ [observada](https://www.inaturalist.org/observations/138910530){:target="_blank"} por scienceco_fn cerca de Manta.
+parallax: true
+height: 85vh
 cta: # OPTIONAL list of buttons
 - text: VENUE
   href: 
   isPrimary: true # OPTIONAL
 
-news:
-  title: Noticias
+welcome:
+  title: Bienvenido a Manta, Ecuador
   description: |
-    Consulta aquí algunas noticias sobre la comunidad.
+    El Ministerio del Ambiente, Agua y Transición Ecológica, tiene el agrado de ser el anfitrión de la 11va RConferencia de las Partes en Manta, Ecuador.
+
   features:    
-    - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023 # required
+    - title: Logística # required
       description: |      # required
-        La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el Premio Investigadores Graduados 2023, consulta las bases en la publicación.
+        Conozca sobre el lugar del evento y otros detalles sobre la sede del mismo.
       href: /post/2023/graduate-research-award/
       background: https://api.gbif.org/v1/image/VLC8iHvXx45koWSvxXuDpOnxQMY=/fit-in/1600x0/https%3A%2F%2Fapi.gbif.org%2Fv1%2Fimage%2Funsafe%2F1170x422%2Fhttp%3A%252F%252Fimages.ctfassets.net%252Fuo17ejk9rkwj%252F3MKHUCDqtzQWr4C7HyKV3a%252Fc03e38528d352bcb7eed22a53c71c7f0%252FGRA-2023-hero-es.png
       imageLicense: # None for this image, but normally you would provide one here    
