@@ -1,34 +1,74 @@
 ---
-href: cop11-home
-layout: post
-title: Home
-# description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB30-hero-bg-10-18.jpg
-imageLicense: |
-  llustration of Australasian Darter [*Anhinga novaehollandiae* (Gould, 1847)](https://www.gbif.org/species/2482085) from Companion to Gould's Handbook; or, Synopsis of the birds of Australia, 1877 via the [Biodiversity Heritage Library](https://flic.kr/p/bmFhGL)
-
+layout: compose
+klass: compositionBlocks
+title: 11va Conferencia 
+description: |
+The theme lets you stitch blocks together from the frontmatter. Below is examples of how. See [`pages/compose.md`](https://github.com/gbif/jekyll-hp-base-theme/blob/master/pages/layout/compose.md) for the raw Markdown of this page.
+background: 
+imageLicense: 
+hasTextShadow: true
+permalink: /cit-cop11
+composition:
+- type: heroImage
+  # data: compose.someFile.someProperty # no data provided, instead page data will be used
+- type: pageMarkdown # This will render the markdown in this file
+- type: heroVideo
+  data: compose.video # yaml file
+- type: heroBox
+  data: compose.examples.boxExample  # property inside yaml file
+- type: postHeader
+  data: compose.examples.postExample
+- type: features
+  data: compose.features
+- type: latestPosts
+  data: compose.examples.latestPostsExample
+- type: blank
+  data: compose.examples.blank
+- type: stats
+  data: compose.examples.stats
+- type: markdown
+  data: compose.markdownBlock
+- type: product
+  data: compose.product
+- type: split
+  data: compose.examples.split1
+- type: split
+  data: compose.examples.split2
+- type: floatingText
+  data: compose.examples.text
+- type: media
+  data: compose.media
+- type: stories
+  data: compose.stories
 ---
 
-Por favor, contacte a la Secretaría de la CIT si tiene alguna pregunta relacionada con:
-- Reglas de procedimiento para las reuniones de la conferencia de las partes
-- La Agenda
-- Reglas sobre la ayuda financiera para asistir al evento
-- Si se necesita de uanCarta de invitación
+# type: pageMarkdown
+You can compose your own pages by using the `compose` layout and defining a custum composition. E.g.
 
-Secretaria Ejecutiva de la CIT
-Email: [secretario@iacseaturtle.org](mailto:secretario@iacseaturtle.org)  
-Phone:  
+```yaml
+# use the compose layout for more flexibility
+layout: compose
+# then define your page composition
+composition:
+- type: heroImage 
+- type: features
+  data: compose.cardExample
+- type: floatingText
+  data: home.bannerExample2
+- type: split
+  data: home.splitExample
+```
 
-Por favor, contacte a al anfitrión nacional si tiene alguna pregunta relacionada con información practica sobre su estancia en Manta:
-
-Dr Andre Zerger, Director, Atlas of Living Australia  
-Email: [andre.zerger@csiro.au](mailto:andre.zerger@csiro.au)  
-Phone: +61 407 535 115  
-
-Professor Andrew Young, National Research Collections Australia  
-Email: [andrew.young@csiro.au](mailto:andrew.young@csiro.au)  
-Phone: +61 413 233 952  
-
-Heather Walsh, Atlas of Living Australia  
-Email: [heather.walsh@csiro.au](heather.walsh@csiro.au)  
-Phone: +61 401 228 620  
+## The available block types are
+* heroImage
+* heroVideo
+* heroBox
+* postHeader
+* features
+* latestPosts
+* markdown
+* pageMarkdown
+* product
+* splitBanner
+* textBanner
+* stories
