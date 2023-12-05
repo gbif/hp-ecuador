@@ -1,5 +1,5 @@
 ---
-lang-ref: cop-11
+lang-ref: cop11-home
 layout: compose
 title: COP 11 Ecuador
 description: |
