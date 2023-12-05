@@ -2,11 +2,12 @@
 href: cop11-home
 layout: compose
 klass: compositionBlocks
-title: 11va Conferencia 
+title: 11va Conferencia de las Partes
 description: |
-The theme lets you stitch blocks together from the frontmatter. Below is examples of how. See [`pages/compose.md`](https://github.com/gbif/jekyll-hp-base-theme/blob/master/pages/layout/compose.md) for the raw Markdown of this page.
-background: 
-imageLicense: 
+de la Convención Interamericana para la Protección de Tortugas Marinas
+Manta, Ecuador
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/237489418/original.jpg
+imageLicense: _Chelonia mydas_ [observada](https://www.inaturalist.org/observations/138910530){:target="_blank"} por scienceco_fn cerca de Manta
 hasTextShadow: true
 permalink: /cit-cop11/home
 composition:
