@@ -1,4 +1,23 @@
+$navbar-breakpoint: 1100px;
 @import "theme/_main";
 
 // You can add additional styling here
 @import "_example";
+
+// se añade del GB30 CSS
+
+.floatingHero.home {
+    .feature-title {
+      width: 800px;
+      max-width: 90%;
+      margin: auto;
+      font-family: 'Bitter', serif;
+      font-size: 3.5em;
+      line-height: 1.2em;
+      font-weight: 700;
+    }
+
+    .feature-description {
+        font-family: 'Rubik', sans-serif;
+        line-height: 1.2em;
+      }
