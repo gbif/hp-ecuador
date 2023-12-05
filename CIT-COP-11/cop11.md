@@ -1,6 +1,6 @@
 ---
 lang-ref: cop-11
-layout: home
+layout: compose
 title: COP 11 Ecuador
 description: |
     11va Reunión de la Conferencia de las Partes de la 

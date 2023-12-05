@@ -1,4 +1,6 @@
 ---
+href: contact
+layout: post
 title: Contacto
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB30-hero-bg-10-18.jpg
