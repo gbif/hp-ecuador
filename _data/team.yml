@@ -1,0 +1,26 @@
+# Project team members listed below will appear on the /team page
+
+- name: Philip J. Fry
+  role: Delivery boy # Will appear next to name
+  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  description: > # Can be Markdown
+    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+
+- name: Turanga Leela
+  role: Captain
+  description: >
+    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
+    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+
+- name: Professor Hubert J. Farnsworth
+  role: CEO & Owner
+  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  description: >
+    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
