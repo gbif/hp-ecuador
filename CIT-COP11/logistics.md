@@ -11,35 +11,21 @@ mobileToc: true
 ---
 
 ## Requerimientos de viaje para el ingreso a Ecuador 
+
 Los asistentes a la COP son responsables por su viaje y asegurarse que tienen la documentación requerida para el ingreso a Ecuador.
+
 ### Requerimientos de Visa y Pasaporte
 
 La mayoría de las personas no necesitan visa para el ingreso a Ecuador, para revisar el listado de países que SI requieren de obtener una visa para el ingreso a Ecuador, es necesario que se revise la página del [Ministerio de relaciones Exteriores y Movilidad HUmana de Ecuador](https://www.cancilleria.gob.ec/2020/06/30/lista-de-paises-que-deben-presentar-visa-al-ingresar-al-ecuador/)
 
-
 **Por favor tenga en cuenta que el proceso de visado puede demorar por lo que se aconseja iniciar el proceso tan pronto como sea posible**
-**Please note that the visa application process can be lengthy and all participants are requested to start the process well in advance of the meeting.**  
 
-If you require an official letter of invitation for visa puposes, please contact the Secretariat at [GB30@gbif.org](mailto:GB30@gbif.org). 
+Si usted necesita de una carta oficial de invitación, por favor contacte a la Secretaría a [secretario@iacseaturtle.org](mailto:secretario@iacseaturtle.org).
 
+### Seguro de viaje
+Se aconseja a los participantes que obtengan un seguro de viaje apropiado para viajar a Ecuador.
 
-Members from the following countries should apply for an eVisitor visa (subclass 651). This visa is free.  
--	Andorra, Belgium, Croatia, Denmark, Estonia, Finland, France, Germany, Iceland, Luxembourg, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland.  
-
-Members from the United States, Canadian and the Republic of Korea will need to apply for either:  
--	Business visitor stream visa (subclass 600). Cost AUD150; or
--	Electronic Travel Authority (subclass 601). There may be an application service charge of AUD20. You cannot apply for an ETA online; however, some travellers can apply for an ETA using the Australian ETA app (Android or iOS).  
-
-Members from the following countries will need to apply for a Business visitor stream visa (subclass 600). Cost AUD150.  
-- Angola, Argentina, Armenia, Belarus, Benin, Brazil, Cambodia, Cameroon, Central African Republic, Chile, Columbia, Costa Rica, Ecuador, Ghana, Guatemala, Guinea, Kenya, Republic of Korea, Liberia, Madagascar, Malawi, Mauritania, Mexico, Namibia, Nigeria, Peru, Sierra Leone, South Africa, South Sudan, Suriname, Tajikistan, Tanzania, Togo, Tonga, Uganda, Uruguay, Uzbekistan, Viet Nam, Zimbabwe.  
-
-
-
-### Insurance
-Meeting attendees are advised to ensure appropriate travel insurance for travel to Australia.  
-
-
-## Entering Australia
+## Ingreso a Ecuador
 
 ### Covid-19
 All meeting attendees are requested meet the general health requirements for entering Australia and to check the Department of Home Affairs [website](https://www.homeaffairs.gov.au/covid19/entering-and-leaving-australia) for the most up to date COVID-19 information.   

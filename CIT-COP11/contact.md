@@ -14,12 +14,12 @@ Por favor, contacte a la Secretaría de la CIT si tiene alguna pregunta relacion
 - La Agenda
 - Reglas sobre la ayuda financiera para asistir al evento
 - Si se necesita de uanCarta de invitación
-- 
-Secretaria Ejecutiva de la CIT   
-Email: [GB30@gbif.org](mailto:GB30@gbif.org)  
-Phone: +45 35 32 14 70  
 
-Por favor, contacte a al anfitrion nacional si tiene alguna pregunta relacionada con información practica sobre su estancia en Manta:
+Secretaria Ejecutiva de la CIT
+Email: [secretario@iacseaturtle.org](mailto:secretario@iacseaturtle.org)  
+Phone:  
+
+Por favor, contacte a al anfitrión nacional si tiene alguna pregunta relacionada con información practica sobre su estancia en Manta:
 
 Dr Andre Zerger, Director, Atlas of Living Australia  
 Email: [andre.zerger@csiro.au](mailto:andre.zerger@csiro.au)  
