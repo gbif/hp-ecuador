@@ -19,6 +19,14 @@
     href: /pages/compartir/por-que
   - text: Cómo compartir
   - href: /pages/compartir/como
+
+- text: COP 11 - CIT
+  menu: # Dropdown menu (one level deep only)
+  - text: COP 11
+    href: /cit-cop11
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Logística
+  - href: /cit-cop11/logistics
        
 - text: Noticias
   href: /news/
