@@ -8,7 +8,8 @@ description: |
     Manta, Ecuador
 background:  https://static.inaturalist.org/photos/239501422/original.jpeg 
 imageLicense: _Megaptera novaeangliae_ [observada](https://www.inaturalist.org/observations/139964582){:target="_blank"} por Siegfried Baesler cerca de Pto. López.
-height: 90vh
+hasTextShadow: true
+permalink: /CIT-COP11/home/
 composition:
   - type: heroImage # the block type
   - type: stats
