@@ -7,7 +7,6 @@ imageLicense: _Panthera onca_ (Linnaeus, 1758) [observada](https://www.gbif.org/
 height: 80vh
 ---
 
-
 Desde el Nodo Nacional de GBIF, apoyamos el análisis de la biodiversidad y la conservación mediante la agregación de las contribuciones de los proveedores de datos, y el posterior procesamiento e indexación de los datos para que se puedan buscar y reutilizar abiertamente.
 
 
@@ -20,6 +19,3 @@ Cuando los proveedores de datos comparten sus datos con GBIF:
 - Tienen la oportunidad de colaborar. Como sus conjuntos de datos son accesibles a través de GBIF, otras personas y organizaciones interesadas en las mismas especies y lugares pueden encontrarlos y colaborar potencialmente en futuros proyectos.
 - Pueden recibir comentarios y consejos. Otros usuarios de GBIF pueden comentar los datos (y viceversa), lo que contribuye a mejorar la calidad de los datos disponibles.
 - Se benefician del proceso de tratamiento de datos de GBIF, que aumenta los datos con valiosos valores taxonómicos, espaciales y de evaluación de la calidad de los datos.
-
-
-![alt text](Isolated.png "Title")
