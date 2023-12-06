@@ -15,21 +15,9 @@
   
 - text: Compartir
   menu: # Dropdown menu (one level deep only)
-  - text: Por qué compartir datos
-    href: /pages/compartir/por-que
-  - text: Cómo compartir
-    href: /pages/compartir/guia-publicar
-  - text: IPT
-    href: /pages/compartir/ipt
-
-- text: COP 11 - CIT
-  menu: # Dropdown menu (one level deep only)
-  - text: COP 11
-    href: /cit-cop11
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: Logística
-  - href: /cit-cop11/logistics
-       
+  - text: Guia para Compartir Datos
+    href: /pages/compartir
+    
 - text: Noticias
   href: /news/
   
@@ -41,7 +29,7 @@
 - text: Más
   menu: # Dropdown menu (one level deep only)
   - text: SIB-EC
-    href: 
+    href: http://biodiversidad.ambiente.gob.ec:8099/biodiversidad-web/inicio/
   - text: Herramienta Integrada de Publicación IPT
     href: http://patrimonio.ambiente.gob.ec/iptmae_test/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
