@@ -47,6 +47,16 @@ Para ingresar al sistema debe hacer clic en `Iniciar Sesión` en la parte superi
 
 ### Creación de un recurso nuevo
 
-<p style="text-align: center;"><img src="/pages/compartir/img/ipt-recursos.jpeg" alt="Gestión de recursos" width="500"/></p>
+![Gestión de recursos](/pages/compartir/img/ipt-recursos.jpeg "Gestión de recursos")
 
 Una vez dentro del sistema puede dar clic en `Gestión de recursos` en dónde se listarán los recursos que tiene disponibles para editar y también podrá crear un nuevo recurso dando clic en `Crear nuevo`.
+
+Para crear un nuevo recurso deberá llenar los campos que aparecen en la pantalla, considerando lo siguiente:
+
+- **Nombre Corto**: Corresponde a un código para el recurso y es el que se visualizará en el url del recurso, se recomienda que para autorizaciones (Recolección y Contratos Marco) se coloque el código de la misma.
+- **Tipo**: Este campo no es obligatorio[^1], sin embargo corresponde al tipo de recurso que se 
+
+[^1]: Nota al pie de varios párrafos.
+
+
+![Crear un nuevo recurso](/pages/compartir/img/ipt-nuevo-1.jpeg "Crear un nuevo recurso")
