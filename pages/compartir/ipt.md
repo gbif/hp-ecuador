@@ -1,14 +1,12 @@
 ---
 layout: page # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: IPT
-composition:
-  - type: heroImage
-  - type: pageMarkdown
-description: herramienta Integrada para la Publicación de Datos
+description: Herramienta Integrada para la Publicación de Datos
+hasTextShadow: true
 background: /pages/compartir/img/ipt-home.jpeg
 imageLicense:
-height: 85vh
-parallax: true
+height: 8
+parallax: false
 toc: true
 mobileToc: true
 ---
@@ -21,7 +19,7 @@ Para la publicación de datos se deberá crear un recurso en el IPT de pruebas y
 
 ## Registro de una Institución
 
-Para la publicación y registro de sus datos a través de la Red Global de GBIF, estos deben estar vinculados a una institución. Puede revisar si su institución ya está regitrada en 
+Para la publicación y registro de sus datos a través de la Red Global de GBIF, estos deben estar vinculados a una institución. Puede revisar si su institución ya está registrada en la Sección [Publicadores de GBIF](https://www.gbif.org/publisher/search){:target="_blank"}  o escribiendo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec) 
 
 ## Solicitar una cuenta en el IPT
 
