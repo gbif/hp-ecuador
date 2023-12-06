@@ -7,7 +7,8 @@ composition:
 description: #This page is using a simple predefined layout with an image, a title and some body text
 background: /pages/compartir/img/ipt-home.jpeg
 imageLicense:
-height: 80vh
+height: 85vh
+parallax: true
 toc: true
 mobileToc: true
 ---
