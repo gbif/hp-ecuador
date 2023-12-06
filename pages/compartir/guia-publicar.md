@@ -22,6 +22,21 @@ Al compartir los datos sobre biodiversidad, los proveedores de datos aumentan el
 4. Complete los metadatos
 5. Haga públicos su conjunto de datos
 
-## Estandarice sus datos
+## 
 
-Los datos a ser compartidos deben estar organizados en el estándar[ Darwin Core](https://www.gbif.org/es/darwin-core){:target="_blank"} (DwC). Esto es importante ya que nos permite que 
+### Estandarice sus datos
+
+Los datos a ser compartidos deben estar organizados en el estándar[ Darwin Core](https://www.gbif.org/es/darwin-core){:target="_blank"} (DwC). Esto es importante ya que nos permite que estos sean compatibles con estándares internaciones asi como permiten el cumplimiento de los principios FAIR.
+
+Para FAmiliarizarte con el estándar puedes revisar este documento publicado por la Secretaría de GBIF 
+
+### Valide sus datos
+
+
+
+
+### Registro de una Institución
+
+Para la publicación y registro de sus datos a través de la Red Global de GBIF, estos deben estar vinculados a una institución. Puede revisar si su institución ya está registrada en la Sección [Publicadores de GBIF](https://www.gbif.org/publisher/search){:target="_blank"}, o escribiendo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec).
+
+En caso de que su institución no esté registrada, se puede solicitar la inclusión desde [esta página web en GBIF.](https://www.gbif.org/es/become-a-publisher){:target="_blank"}, una vez haya llenado toda la información en el formulario, el Administrador del Nodo podrá aceptar o rechazar su solicitud.

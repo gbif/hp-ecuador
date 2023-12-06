@@ -16,12 +16,6 @@ Para la publicación de datos se deberá crear un recurso en el IPT de pruebas y
 
 ## Antes de empezar
 
-### Registro de una Institución
-
-Para la publicación y registro de sus datos a través de la Red Global de GBIF, estos deben estar vinculados a una institución. Puede revisar si su institución ya está registrada en la Sección [Publicadores de GBIF](https://www.gbif.org/publisher/search){:target="_blank"}, o escribiendo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec).
-
-En caso de que su institución no esté registrada, se puede solicitar la inclusión desde [esta página web en GBIF.](https://www.gbif.org/es/become-a-publisher){:target="_blank"}, una vez haya llenado toda la información en el formulario, el Administrador del Nodo podrá aceptar o rechazar su solicitud.
-
 ### Solicitar una cuenta en el IPT
 
 <p style="text-align: center;">[Herramienta IPT](http://patrimonio.ambiente.gob.ec/iptmae_test/){:target="_blank" .button .is-primary}</p>

@@ -22,10 +22,10 @@ beanbag69:
 compartir:
 - content:
   - title: Índice
-    path:
+    path: /pages/compartir/
   - title: Por qué compartir
     path: /pages/compartir/por-que
   - title: Guía
     path: /pages/compartir/guia
-  - title: Guía
+  - title: Herramienta IPT
     path: /pages/compartir/ipt

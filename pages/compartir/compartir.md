@@ -7,4 +7,11 @@ sideNavigation: sidenav.compartir
 toc: true
 ---
 
-## Compartir datos
+# Contenido
+
+**[Por qué compartir datos de biodiversidad a través de GBIF](/pages/compartir/por-que)**
+
+**[Cómo compartir datos a través del Nodo Nacional de Ecuador](/pages/compartir/guia)**
+
+**[Uso de la Herramienta Integrada de Publicación](/pages/compartir/ipt)**
+
