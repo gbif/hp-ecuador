@@ -19,8 +19,32 @@ Para la publicación de datos se deberá crear un recurso en el IPT de pruebas y
 
 ## Registro de una Institución
 
-Para la publicación y registro de sus datos a través de la Red Global de GBIF, estos deben estar vinculados a una institución. Puede revisar si su institución ya está registrada en la Sección [Publicadores de GBIF](https://www.gbif.org/publisher/search){:target="_blank"}  o escribiendo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec) 
+Para la publicación y registro de sus datos a través de la Red Global de GBIF, estos deben estar vinculados a una institución. Puede revisar si su institución ya está registrada en la Sección [Publicadores de GBIF](https://www.gbif.org/publisher/search){:target="_blank"}, o escribiendo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec).
+
+En caso de que su institución no esté registrada, se puede solicitar la inclusión desde [esta página web en GBIF.](https://www.gbif.org/es/become-a-publisher){:target="_blank"}, una vez haya llenado toda la información en el formulario, el Administrador del Nodo podrá aceptar o rechazar su solicitud.
 
 ## Solicitar una cuenta en el IPT
 
-Para solicitar una cuenta en el IPT usted debe enviar un correo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec) solicitando 
+ [Herramienta IPT](http://patrimonio.ambiente.gob.ec/iptmae_test/){:target="_blank" .button .is-primary}
+
+Para solicitar una cuenta en el IPT usted debe enviar un correo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec) solicitando la creación de credenciales para el acceso al IPT.
+
+Una vez cuente con su usuario y contraseña puede crear recursos en la herramienta. 
+
+## Uso del IPT
+
+### Ingreso al sistema
+
+El Administrador del Nodo le proporcionará credenciales con los permisos correspondientes para:
+
+- Crear recursos en el IPT
+- Publicar recurso en el IPT
+- Registrar Recurso en la versión de pruebas de GBIF
+
+Para ingresar al sistema debe hacer clic en `Iniciar Sesión` en la parte superior derecha de la página web. En dónde deberá colocar las credenciales otorgadas por el Administrador del Nodo.
+
+### Creación de un recurso nuevo
+
+<img src="/pages/compartir/img/ipt-recursos.jpeg" alt="drawing" width="75"/>
+
+Una vez dentro del sistema puede dar clic en `Gestión de recursos` en dónde se listarán los recursos que tiene disponibles para editar y también podrá crear un nuevo recurso dando clic en `Crear nuevo`.
