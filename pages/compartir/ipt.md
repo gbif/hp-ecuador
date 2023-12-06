@@ -1,13 +1,16 @@
 ---
 layout: documentation
 permalink: /pages/compartir/ipt # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
-title: Herraminta Integrada de Publicación de Datos
+title: Herramienta Integrada de Publicación de Datos
 description: |
 sideNavigation: sidenav.compartir
 toc: true
 mobileToc: true
 ---
-# Herraminta Integrada de Publicación de Datos
+# Herramienta Integrada de Publicación de Datos
+
+![Gestión de recursos](/pages/compartir/img/ipt-home.jpeg "Gestión de recursos")
+
 La herramienta integrada para la publicación de datos -comúnmente conocido como IPT- es un software gratuito de código abierto desarrollado por GBIF y utilizado por organizaciones de todo el mundo para crear y gestionar repositorios para compartir conjuntos de datos sobre biodiversidad.
 
 En nodo ecuatoriano de GBIF mantiene una [instalación del IPT registrada en la Red Global de GBIF](https://www.gbif.org/installation/9df8109c-684d-416b-819b-7bc09adc500b){:target="_blank"}, el cual esta registrado como un [repositorio FAIR](https://www.go-fair.org/fair-principles/){:target="_blank"} tanto en [fairsharing.org](https://doi.org/10.25504/FAIRsharing.53342f){:target="_blank"} como en [re3data](http://doi.org/10.17616/R31NJNFS){:target="_blank"}.
@@ -17,8 +20,6 @@ Para la publicación de datos se deberá crear un recurso en el IPT de pruebas y
 ## Antes de empezar
 
 ### Solicitar una cuenta en el IPT
-
-<p style="text-align: center;">[Herramienta IPT](http://patrimonio.ambiente.gob.ec/iptmae_test/){:target="_blank" .button .is-primary}</p>
 
 Para solicitar una cuenta en el IPT usted debe enviar un correo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec) solicitando la creación de credenciales para el acceso al IPT.
 
