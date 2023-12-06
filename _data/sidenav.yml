@@ -25,3 +25,7 @@ compartir:
     path:
   - title: Por qué compartir
     path: /pages/compartir/por-que
+  - title: Guía
+    path: /pages/compartir/guia
+  - title: Guía
+    path: /pages/compartir/ipt

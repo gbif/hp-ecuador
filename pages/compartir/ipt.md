@@ -1,12 +1,9 @@
 ---
-layout: page # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
-title: IPT
-description: Herramienta Integrada para la Publicación de Datos
-hasTextShadow: true
-background: /pages/compartir/img/ipt-home-2.jpeg
-imageLicense:
-height: 
-parallax: true
+layout: documentation
+permalink: /pages/compartir/ipt # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
+title: ¿Por qué compartir datos?
+description: |
+sideNavigation: sidenav.compartir
 toc: true
 mobileToc: true
 ---
