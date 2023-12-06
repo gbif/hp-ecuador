@@ -18,3 +18,10 @@ beanbag69:
     path: /beanbag/69/issue-69-traits-working-group  
   - title: Legume Data Portal
     path: /beanbag/69/issue-69-legume-data-portal
+
+compartir:
+- content:
+  - title: Índice
+    path:
+  - title: Por qué compartir
+    path: /pages/compartir/por-que

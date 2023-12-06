@@ -17,7 +17,7 @@ En nodo ecuatoriano de GBIF mantiene una [instalación del IPT registrada en la 
 
 Para la publicación de datos se deberá crear un recurso en el IPT de pruebas y una vez que este este validado (publicado sin errores) solicitar al administrador del Nodo que cargue el conjunto de datos en el IPT de producción.
 
-## Antes de emprzar
+## Antes de empezar
 
 ### Registro de una Institución
 
