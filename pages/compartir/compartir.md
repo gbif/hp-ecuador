@@ -9,9 +9,9 @@ toc: true
 
 # Contenido
 
-**[Por qué compartir datos de biodiversidad a través de GBIF](/pages/compartir/por-que)**
+En este documento usted podrá revisar la información que se detalla a continuación:
 
-**[Cómo compartir datos a través del Nodo Nacional de Ecuador](/pages/compartir/guia)**
-
-**[Uso de la Herramienta Integrada de Publicación](/pages/compartir/ipt)**
+- **[Por qué compartir datos de biodiversidad a través de GBIF](/pages/compartir/por-que)**
+- **[Cómo compartir datos a través del Nodo Nacional de Ecuador](/pages/compartir/guia)**
+- **[Uso de la Herramienta Integrada de Publicación](/pages/compartir/ipt)**
 
