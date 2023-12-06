@@ -18,7 +18,9 @@
   - text: Por qué compartir datos
     href: /pages/compartir/por-que
   - text: Cómo compartir
-  - href: /pages/compartir/como
+  - href: /pages/compartir/guia-publicar
+  - text: IPT
+  - href: /pages/compartir/ipt
 
 - text: COP 11 - CIT
   menu: # Dropdown menu (one level deep only)
