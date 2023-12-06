@@ -17,14 +17,6 @@ En nodo ecuatoriano de GBIF mantiene una [instalación del IPT registrada en la 
 
 Para la publicación de datos se deberá crear un recurso en el IPT de pruebas y una vez que este este validado (publicado sin errores) solicitar al administrador del Nodo que cargue el conjunto de datos en el IPT de producción.
 
-## Antes de empezar
-
-### Solicitar una cuenta en el IPT
-
-Para solicitar una cuenta en el IPT usted debe enviar un correo al [Administrador del Nodo](mailto:victor.chocho@ambiente.gob.ec) solicitando la creación de credenciales para el acceso al IPT.
-
-Una vez cuente con su usuario y contraseña puede crear recursos en la herramienta. 
-
 ## Uso del IPT
 
 ### Ingreso al sistema

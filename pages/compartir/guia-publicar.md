@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /pages/compartir/guia # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
+permalink: /pages/compartir/como # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
 title: ¿Por qué compartir datos?
 description: |
 sideNavigation: sidenav.compartir

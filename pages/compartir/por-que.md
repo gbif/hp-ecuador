@@ -7,7 +7,7 @@ sideNavigation: sidenav.compartir
 toc: true
 mobileToc: true
 ---
-
+# Por qué es importante compartir datos de Biodiversidad
 
 Desde el Nodo Nacional de GBIF, apoyamos el análisis de la biodiversidad y la conservación mediante la agregación de las contribuciones de los proveedores de datos, y el posterior procesamiento e indexación de los datos para que se puedan buscar y reutilizar abiertamente.
 
