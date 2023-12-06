@@ -5,8 +5,8 @@ description: Herramienta Integrada para la Publicación de Datos
 hasTextShadow: true
 background: /pages/compartir/img/ipt-home.jpeg
 imageLicense:
-height: 8
-parallax: false
+height: 
+parallax: true
 toc: true
 mobileToc: true
 ---
