@@ -3,7 +3,7 @@ layout: page # try to remoce this line (add # in the beginning of the line to ma
 title: IPT
 description: Herramienta Integrada para la Publicación de Datos
 hasTextShadow: true
-background: /pages/compartir/img/ipt-home.jpeg
+background: /pages/compartir/img/ipt-home-2.jpeg
 imageLicense:
 height: 
 parallax: true
