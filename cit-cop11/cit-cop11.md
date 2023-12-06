@@ -3,9 +3,8 @@ layout: compose
 klass: compositionBlocks
 title: 11va Conferencia de las Partes
 description:   |
-  Convención Interamericana para la Protección y Conservación de Tortugas Marinas,  
-  15 al 20 de octubre de 2023,  
-  Manta - Ecuador
+  Convención Interamericana para la Protección y Conservación de Tortugas Marinas, Manta - Ecuador,  
+  15 al 20 de octubre de 2023
 hasTextShadow: true
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/237489418/original.jpg
 imageLicense: _Chelonia mydas_ [observada](https://www.inaturalist.org/observations/138910530){:target="_blank"} por scienceco_fn cerca de Manta.
