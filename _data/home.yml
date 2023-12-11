@@ -25,7 +25,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=EC&limit=0">100,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
       description: Socios Publicadores
       background: assets/images/home/stats-icons/publishers.svg
-      href: #/dataset/search?type=CHECKLIST
+      href: /publisher/search
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     #- title: "202"
      # description: Socios publicadores
