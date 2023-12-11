@@ -72,14 +72,13 @@ var siteConfig = {
       country: "EC",
       active: true
     },
-  },
-  publisher: {
+    publisher: {
       rootFilter: {
-        country: 'EC'
+        country: 'AR'
       },
       excludedFilters: ['countrySingle'],
     },
-  mapSettings: {
+    mapSettings: {
       enabled: true,
       lat: -1.4481247373907848,
       lng: -81.95287504757923,
