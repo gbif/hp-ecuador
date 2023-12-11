@@ -66,7 +66,7 @@ var siteConfig = {
   },
   publisher: {
     rootFilter: {
-      country: 'AR'
+      country: 'EC'
     },
     excludedFilters: ['countrySingle'],
   },
