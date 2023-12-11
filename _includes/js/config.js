@@ -72,12 +72,13 @@ var siteConfig = {
       country: "EC",
       active: true
     },
-    publisher: {
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
-      rootFilter: {country: ['EC']}
-      
-  },
-    mapSettings: {
+  publisher: {
+      rootFilter: {
+        country: 'EC'
+      },
+      excludedFilters: ['countrySingle'],
+    },
+  mapSettings: {
       enabled: true,
       lat: -1.4481247373907848,
       lng: -81.95287504757923,
