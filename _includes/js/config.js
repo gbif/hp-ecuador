@@ -57,7 +57,7 @@ var siteConfig = {
   },
   collection: {
     availableCatalogues: ['COLLECTION', 'INSTITUTION'],
-    excludedFilters: ['countrySingleGrSciColl'],
+    excludedFilters: ['countrySingleGrSciColl','country'],
     rootFilter: {
       displayOnNHCPortal: true,
       country: "EC",
