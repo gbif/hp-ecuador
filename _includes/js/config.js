@@ -6,6 +6,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 
 var siteConfig = {
   routes: {
+    alwaysUseHrefs: true,
     enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
   },
   occurrence: {
