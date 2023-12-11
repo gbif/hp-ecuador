@@ -64,6 +64,12 @@ var siteConfig = {
       active: true
     }
   },
+  publisher: {
+    rootFilter: {
+      country: 'AR'
+    },
+    excludedFilters: ['countrySingle'],
+  },
   institution: {
     availableCatalogues: ['COLLECTION', 'INSTITUTION'],
     excludedFilters: ['countrySingleGrSciColl'],
@@ -71,12 +77,6 @@ var siteConfig = {
       displayOnNHCPortal: true,
       country: "EC",
       active: true
-    },
-    publisher: {
-      rootFilter: {
-        country: 'AR'
-      },
-      excludedFilters: ['countrySingle'],
     },
     mapSettings: {
       enabled: true,
