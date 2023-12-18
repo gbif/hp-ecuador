@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Explora la biodiversidad de Ecuador
-description: Ecuador es uno de los 17 países megadiversos del mundo. Sus cuatro regiones naturales albergan una diversidad biológica.
+description: | #Ecuador es uno de los 17 países megadiversos del mundo. Sus cuatro regiones naturales albergan una diversidad biológica.
 background:  https://static.inaturalist.org/photos/239501422/original.jpeg 
 imageLicense: _Megaptera novaeangliae_ [observada](https://www.inaturalist.org/observations/139964582){:target="_blank"} por Siegfried Baesler cerca de Pto. López.
 height: 90vh
