@@ -92,20 +92,20 @@ news:
       background: https://api.gbif.org/v1/image/VLC8iHvXx45koWSvxXuDpOnxQMY=/fit-in/1600x0/https%3A%2F%2Fapi.gbif.org%2Fv1%2Fimage%2Funsafe%2F1170x422%2Fhttp%3A%252F%252Fimages.ctfassets.net%252Fuo17ejk9rkwj%252F3MKHUCDqtzQWr4C7HyKV3a%252Fc03e38528d352bcb7eed22a53c71c7f0%252FGRA-2023-hero-es.png
       imageLicense: # None for this image, but normally you would provide one here    
 
-stories:
+#stories:
   # Title (Optional)
-  title: Noticias Globales
+#  title: Noticias Globales
   # Description (Optional)
-  description: |
-    GBIF Francia, un actor clave en la red mundial de biodiversidad, ayuda a compartir datos esenciales sobre nuestro mundo natural. En colaboración con otros nodos, aporta las últimas noticias a la red, haciendo avanzar nuestra comprensión de las diversas formas de vida de la Tierra.
-  useSiteLinkWhenPossible: true # experimental - use the resource page when possible. See https://github.com/gbif/hp-france/issues/1
+#  description: |
+#    GBIF Francia, un actor clave en la red mundial de biodiversidad, ayuda a compartir datos esenciales sobre nuestro mundo natural. En colaboración con otros nodos, aporta las últimas noticias a la red, haciendo avanzar nuestra comprensión de las diversas formas de vida de la Tierra.
+#  useSiteLinkWhenPossible: true # experimental - use the resource page when possible. See https://github.com/gbif/hp-france/issues/1
   # Filters
   # Use these options to tailor the content displayed in your block.
-  filters:
-    contentType: 
-      - DATA_USE
-      - NEWS
-      - EVENT
-    limit: 6 
-    locale:
-      - es
+#  filters:
+#    contentType: 
+#      - DATA_USE
+#      - NEWS
+#      - EVENT
+#    limit: 6 
+#    locale:
+#      - es
