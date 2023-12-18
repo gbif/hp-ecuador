@@ -85,10 +85,16 @@ news:
   description: |
     Consulta aquí algunas noticias sobre la comunidad.
   features:    
+    - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2024 # required
+      description: |      # required
+        La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el Premio Investigadores Graduados 2024, consulta las bases en la publicación.
+      href: /post/2023-12-18-Graduate-Research-Award-2024
+      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4pNBPcOzwwK2kEBXJQIehA%2Fa277f463f1252046242879b2f8f44131%2FGRA-2024-hero4-ES.png
+      imageLicense: # None for this image, but normally you would provide one here    
     - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023 # required
       description: |      # required
         La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el Premio Investigadores Graduados 2023, consulta las bases en la publicación.
-      href: /post/2023/graduate-research-award/
+      href: /post/2023-04-12-Graduate-Research-Award-2023
       background: https://api.gbif.org/v1/image/VLC8iHvXx45koWSvxXuDpOnxQMY=/fit-in/1600x0/https%3A%2F%2Fapi.gbif.org%2Fv1%2Fimage%2Funsafe%2F1170x422%2Fhttp%3A%252F%252Fimages.ctfassets.net%252Fuo17ejk9rkwj%252F3MKHUCDqtzQWr4C7HyKV3a%252Fc03e38528d352bcb7eed22a53c71c7f0%252FGRA-2023-hero-es.png
       imageLicense: # None for this image, but normally you would provide one here    
 
