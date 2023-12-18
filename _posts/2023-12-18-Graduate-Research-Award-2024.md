@@ -1,13 +1,13 @@
 ---
 title:  "Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2024"
-date:   2024-12-18 11:00:00 -0500
+date:   2023-12-18 11:00:00 -0500
 categories: ["Convocatorias"]
 lang-ref:
 background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4pNBPcOzwwK2kEBXJQIehA%2Fa277f463f1252046242879b2f8f44131%2FGRA-2024-hero4-ES.png
 toc: true
 ---
 
-el Nodo Nacional de GBIF, se complace en invitar a presentar candidaturas para el [Premio Investigadores Graduados 2024](https://www.gbif.org/es/news/0YedTUAf3Nk14JKZqBn0a/se-abre-convocatoria-para-nominaciones-al-premio-gbif-a-investigadores-graduados-2024). Este programa anual tiene como objetivo **fomentar y reconocer la investigación y los descubrimientos innovadores en el ámbito de la informática de la biodiversidad por parte de los estudiantes de postgrado cuyos estudios de maestría y doctorado se basan en los datos mediados por GBIF**.
+El Nodo Nacional de GBIF, se complace en invitar a presentar candidaturas para el [Premio Investigadores Graduados 2024](https://www.gbif.org/es/news/0YedTUAf3Nk14JKZqBn0a/se-abre-convocatoria-para-nominaciones-al-premio-gbif-a-investigadores-graduados-2024). Este programa anual tiene como objetivo **fomentar y reconocer la investigación y los descubrimientos innovadores en el ámbito de la informática de la biodiversidad por parte de los estudiantes de postgrado cuyos estudios de maestría y doctorado se basan en los datos mediados por GBIF**.
 
 El programa de 2024 otorgará **dos premios de 5.000 euros** para reconocer el trabajo de dos investigadores que estén iniciando su carrera (preferiblemente, un estudiante de maestría y otro de doctorado) y que reciban formalmente las nominaciones de los jefes de delegación y los administradores de nodo de [los países participantes en GBIF](https://www.gbif.org/es/the-gbif-network).
 
