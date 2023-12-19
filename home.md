@@ -1,5 +1,6 @@
 ---
 lang-ref: home
+permalink: /
 layout: home
 title: Explora la biodiversidad de Ecuador
 description: | #Ecuador es uno de los 17 países megadiversos del mundo. Sus cuatro regiones naturales albergan una diversidad biológica.
@@ -27,7 +28,10 @@ composition:
     data: home.news
   - type: features
     data: home.stories  
-permalink: /
+navbar: # NavBar Transparent
+    color: transparent!important
+    hasWhiteText: true
+    floating: true
 ---
 
 Edit `/home.md` to change the text.
