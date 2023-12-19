@@ -21,10 +21,7 @@
 
 title: GBIF Ecuador # the title of your site should go here
 email: biodiversidad@ambiente.gob.ec
-description: Portal de GBIF para el nodo nacional de Ecuador>- # this means to ignore newlines (until baseurl:)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Portal de GBIF para el nodo nacional de Ecuador, este portal permite descubrir la biodiversidad del Ecuador.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbif.ambiente.gob.ec/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ambiente_Ec # if you have an account you want to link to. Else comment this line out
