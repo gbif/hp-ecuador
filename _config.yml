@@ -21,7 +21,7 @@
 
 title: GBIF Ecuador # the title of your site should go here
 email: biodiversidad@ambiente.gob.ec
-description: Portal de GBIF para el nodo nacional de Ecuador, este portal permite descubrir la biodiversidad del Ecuador.
+description: Portal nacional de GBIF Ecuador, este portal permite descubrir la biodiversidad del país.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbif.ambiente.gob.ec/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ambiente_Ec # if you have an account you want to link to. Else comment this line out
