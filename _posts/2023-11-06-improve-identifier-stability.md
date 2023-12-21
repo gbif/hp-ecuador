@@ -30,13 +30,13 @@ Vea la figura de abajo que es un ejemplo de actualización de un conjunto de dat
 - Ejemplo superior (sin cambios de `occurrenceID`): La URL de la incidencia seguirá siendo la misma.
 - Ejemplo inferior (cambios de `occurrenceID`): Se emitirá una nueva URL para los datos actualizados y la antigua URL quedará obsoleta.
 
-![Imagen](https://data-blog.gbif.org/post/2023-11-01-improve-identifier-stability/change_of_occurrenceIDs.png "Imagen")
+![Imagen 1](https://data-blog.gbif.org/post/2023-11-01-improve-identifier-stability/change_of_occurrenceIDs.png "Imagen 1")
 
 El ejemplo anterior utiliza un "triplete", la combinación de `institutionCode`, `collectionCode` y `catalogNumber` para los `occurrenceID` (Por ejemplo: `urn:catalog:UWBM:Bird:89776`). Sin embargo, en general se recomienda utilizar valores enteros o de cadena sin sentido para los ID. Actualmente no existen reglas estrictas para los `occurrenceID`, aparte de la exclusividad dentro de un conjunto de datos. Después de las discusiones con nuestra comunidad [(como este tema de GitHub)](https://github.com/tdwg/dwc/issues/491), GBIF ha pasado a recomendar `occurrenceID` sin sentido para promover **identificadores persistentes**. Un identificador único a nivel mundial como UUID (por ejemplo, `000866d2-c177-4648-a200-ead4007051b9`) puede ser una de las mejores prácticas según lo recomendado por [TDWG aquí](http://rs.tdwg.org/dwc/terms/occurrenceID).
 
 No se preocupe si ya ha utilizado el triplete u otro contenido significativo para los `occurrenceID` en sus conjuntos de datos publicados. En caso de que cambie los `occurrenceIDs` existe una forma de migrar los gbifIDs y las URLs de los antiguos `occurrenceID` a los nuevos occurrenceIDs que se explicará con más detalle en las siguientes secciones.
 
-> **Nota:** Si cambia el campo `catalogNumber`, el `catalogNumber` anterior puede rellenarse en `otherCatalogNumbers`, que se utiliza para la agrupación de datos [(consulte esta entrada del blog)](https://data-blog.gbif.org/post/clustering-occurrences/).
+> **Nota:** Si cambia el campo `catalogNumber,` el `catalogNumber` anterior puede rellenarse en `otherCatalogNumbers,` que se utiliza para la agrupación de datos [(consulte esta entrada del blog)](https://data-blog.gbif.org/post/clustering-occurrences/).
 
 ## Tres opciones para tratar los problemas de identificación
 
@@ -50,5 +50,56 @@ Ofrecemos tres opciones para tratar los problemas de los identificadores.
 |2|Volver a cambiar los `occurrenceID` (es decir, restaurar los antiguos `occurrenceID`)|Publicadores|La ingesta de datos se reanudará automáticamente tras la publicación y los identificadores de GBIF seguirán siendo los mismos.|
 |3|Migrar los identificadores GBIF de los antiguos `occurrenceID` a los nuevos `occurrenceID`|Servicio de asistencia de GBIF[^1]|La ingesta de datos se reanudará manualmente y los identificadores GBIF seguirán siendo los mismos.|
 
+El servicio de asistencia de GBIF consulta con los publicadores para decidir qué opción se adapta mejor al conjunto de datos. La Opción 2 y la Opción 3 podrían evitar la pérdida de las URL de las ocurrencias, mientras que la Opción 1 conduce a la pérdida de las URL.
+
+En primer lugar, nos preguntamos si el cambio es a propósito o si son errores involuntarios. Si los cambios de `occurrenceID` son errores, la opción 2 puede ser una solución candidata. Lo que los editores deben hacer en este caso es volver a cambiar los nuevos `occurrenceID` por los antiguos y publicar los conjuntos de datos en los servicios web de alojamiento.
+
+En segundo lugar, sugerimos la opción 3, si los editores pueden proporcionarnos la relación entre los antiguos `occurrenceID` y los nuevos `occurrenceID`. Usando la lista de `occurrenceID`, podemos migrar los identificadores GBIF y mantener las URL (ver la figura de abajo).
+
+![Imagen 2](https://data-blog.gbif.org/post/2023-11-01-improve-identifier-stability/occurrenceID_migration.png "Imagen 2")
+
+Una vez que sepamos que tanto la Opción 2 como la Opción 3 no son viables, tomaremos la Opción 1 para reanudar la ingesta.
+
+Tenga en cuenta que podemos optar por la Opción 1 si no recibimos respuesta de los editores durante más de dos meses después del primer contacto. Si lo desea, podemos ampliar este plazo.
+
+Hay casos en los que los problemas con los identificadores pueden ignorarse. Por ejemplo, cuando el número de registros de ocurrencia cambia masivamente, la porción de nuevos `occurrenceID` puede alcanzar el umbral. Si podemos darnos cuenta de un aumento de registros (como duplicado o triplicado) mirando los servicios web de alojamiento como el IPT, tomamos la Opción 1 sin notificación. Otro ejemplo son los conjuntos de datos de agregadores de datos de observación en los que los `occurrenceID` siempre cambian. En este caso, establecemos un aviso para omitir las comprobaciones de `occurrenceID` para estos conjuntos de datos, y la ingesta de datos ya no se detendrá durante la validación del identificador.
+
+## Requisitos para la migración de identificadores
+
+Para migrar identificadores GBIF, se requiere una lista de la relación entre los antiguos `occurrenceID` y los nuevos `occurrenceID`. El archivo no tiene que tener cabecera y debe estar en un formato delimitado por comas, además debe contener los antiguos `occurrenceID` en la primera columna, seguidos de los nuevos `occurrenceID` en la segunda columna. Por ejemplo:
+
+```
+1 old_id_00001,new_id_00001
+2 old_id_00002,new_id_00002
+3 old_id_00003,new_id_00003
+```
+Si los publicadores pueden enviar una lista al servicio de ayuda de GBIF [(helpdesk@gbif.org)](mailto:helpdesk@gbif.org), podemos realizar una migración de identificadores por usted. Esto puede hacerse incluso antes de que los editores actualicen los conjuntos de datos en los servicios web de alojamiento. Si sabe que los `occurrenceID` cambiarán en la próxima actualización, no dude en ponerse en contacto con nosotros[^2].
+
+Otra nota importante aquí es que la migración puede hacerse entre conjuntos de datos. Si está planeando volver a publicar registros de ocurrencia en nuevos conjuntos de datos eliminando los registros de los conjuntos de datos anteriores o eliminando los propios conjuntos de datos, este enfoque ayudará a mantener los identificadores de GBIF para los registros. Las URLs de los conjuntos de datos anteriores se pueden utilizar en los nuevos conjuntos de datos mediante migraciones de identificadores en cualquier momento[^3].
+
+
+## Más información para editores: cómo detectar problemas de identificadores en el registro de GBIF.
+
+El servicio de ayuda de GBIF se pondrá en contacto con los editores cuando falle la validación de los identificadores, pero puede comprobar el registro de GBIF por su cuenta.
+
+Puede acceder al registro desde la página de su conjunto de datos en GBIF.org.
+
+Busque el enlace `GBIF Registry` en la sección de registro de GBIF.
+
+En la página de registro, haga clic en `Ingestion history` bajo `Datasets` en el menú lateral.
+
+Si `VERBATIM_TO_IDENTIFIER : More than one metric` está en caracteres rojos, significa que la validación del identificador falló (se detectó una gran parte de nuevos `occurrenceID`).
+
+![Imagen 3](https://data-blog.gbif.org/post/2023-11-01-improve-identifier-stability/registry_ingestion_history.jpg "Imagen 3")
+
+Si pasa el ratón por encima de `VERBATIM_TO_IDENTIFIER : More than one metric`, podrá ver un recuento de registros en las métricas.
+
+El recuento de registros para nuevos `occurrenceID` se muestra en el campo `absent gbif id count`.
+
+![Imagen 4](https://data-blog.gbif.org/post/2023-11-01-improve-identifier-stability/registry_record_count.jpg "Imagen 4")
+
+También puede comprobar si su conjunto de datos tiene problemas de identificación en [GitHub](https://github.com/gbif/ingestion-management/issues) buscando por el título del conjunto de datos.
 
 [^1]: Se debe proveer una lista con los `occurrenceID` nuevos y viejos.
+[^2]: Puede pedir ayudar al equipo de Ecuador si requiere asistencia previa.
+[^3]: Esto es muy útil si se desea separar un set de datos en más de uno.
