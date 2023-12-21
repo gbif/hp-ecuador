@@ -1,9 +1,11 @@
 ---
-title:  "Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2024"
+title:  "GBIF intenta mejorar la estabilidad de los identificadores controlando los cambios de los occurrenceIDs"
 date:   2023-11-06 09:00:00 -0500
 categories: ["DataBlog"]
 lang-ref:
-background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4pNBPcOzwwK2kEBXJQIehA%2Fa277f463f1252046242879b2f8f44131%2FGRA-2024-hero4-ES.png
+background: https://static.antweb.org/images/casent0650521/casent0650521_p_1_high.jpg
+imageLicense: |
+  _Neivamyrmex clavifemur_ Borgmeier, 1953 [collectada](https://www.gbif.org/occurrence/3406930306){:target="_blank"} en Sucumbíos, Ecuador por D. Forrister. Fotografía por la [Academia de Ciencias de California](https://www.gbif.org/dataset/13b70480-bd69-11dd-b15f-b8a03c50a862){:target="_blank"}. [(CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
 toc: true
 ---
 
