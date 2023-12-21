@@ -93,7 +93,7 @@ news:
       imageLicense: # None for this image, but normally you would provide one here    
     - title: GBIF intenta mejorar la estabilidad de los identificadores controlando los cambios de los occurrenceID # required
       description: |      # required
-        Desde 2022, GBIF ha estado monitorizando los cambios en los campos `occurrenceID` de los conjuntos de datos para mejorar la estabilidad de los identificadores de GBIF. Detenemos la ingesta de datos cuando se detecta que más de la mitad de los registros de ocurrencia de la última versión tienen `occurrenceID` diferentes a los de la versión anterior (en GBIF.org). Este proceso de validación de identificadores crea automáticamente problemas en GitHub y el servicio de asistencia de GBIF se pone en contacto con los editores para verificar los cambios de `occurrenceID`.
+        Desde 2022, GBIF ha estado monitorizando los cambios en los campos `occurrenceID` de los conjuntos de datos para mejorar la estabilidad de los identificadores de GBIF.
       href: /post/2023/improve-identifier-stability
       background: https://static.antweb.org/images/casent0650521/casent0650521_p_1_high.jpg
       imageLicense: |

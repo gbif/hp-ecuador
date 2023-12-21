@@ -1,5 +1,4 @@
 ---
-lang-ref: home
 permalink: /
 layout: home
 title: Explora la biodiversidad de Ecuador

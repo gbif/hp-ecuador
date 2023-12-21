@@ -11,6 +11,8 @@ toc: true
 
 `Este post fue publicado originalmente en el DataBlog de GBIF por Kumiko Totsu`
 
+[Puedes acceder a la publicación originar aquí](https://data-blog.gbif.org/post/improve-identifier-stability/){: .button}
+
 Desde 2022, GBIF ha estado monitorizando los cambios en los campos `occurrenceID` de los conjuntos de datos para mejorar la estabilidad de los identificadores de GBIF. Detenemos la ingesta de datos cuando se detecta que más de la mitad de los registros de ocurrencia de la última versión tienen `occurrenceID` diferentes a los de la versión anterior (en GBIF.org). Este proceso de validación de identificadores crea automáticamente problemas en GitHub y el servicio de asistencia de GBIF se pone en contacto con los editores para verificar los cambios de `occurrenceID`.
 
 El objetivo en este proceso es minimizar los cambios de los identificadores de GBIF y apoyar las necesidades de citación y vinculación de datos. Aquí explicamos algunos antecedentes sobre la estabilidad de los identificadores, cómo gestionamos los identificadores en GBIF por `occurrenceID` y qué opciones podemos tomar para los problemas con los identificadores.
