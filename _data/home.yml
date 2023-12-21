@@ -95,15 +95,15 @@ news:
       description: |      # required
         Desde 2022, GBIF ha estado monitorizando los cambios en los campos `occurrenceID` de los conjuntos de datos para mejorar la estabilidad de los identificadores de GBIF. Detenemos la ingesta de datos cuando se detecta que más de la mitad de los registros de ocurrencia de la última versión tienen `occurrenceID` diferentes a los de la versión anterior (en GBIF.org). Este proceso de validación de identificadores crea automáticamente problemas en GitHub y el servicio de asistencia de GBIF se pone en contacto con los editores para verificar los cambios de `occurrenceID`.
       href: /post/2023/improve-identifier-stability
-      background: https://api.gbif.org/v1/image/VLC8iHvXx45koWSvxXuDpOnxQMY=/fit-in/1600x0/https%3A%2F%2Fapi.gbif.org%2Fv1%2Fimage%2Funsafe%2F1170x422%2Fhttp%3A%252F%252Fimages.ctfassets.net%252Fuo17ejk9rkwj%252F3MKHUCDqtzQWr4C7HyKV3a%252Fc03e38528d352bcb7eed22a53c71c7f0%252FGRA-2023-hero-es.png
-      imageLicense: # None for this image, but normally you would provide one here    
+      background: https://static.antweb.org/images/casent0650521/casent0650521_p_1_high.jpg
+      imageLicense: |
+        _Neivamyrmex clavifemur_ Borgmeier, 1953 [collectada](https://www.gbif.org/occurrence/3406930306){:target="_blank"} en Sucumbíos, Ecuador por D. Forrister. Fotografía por la [Academia de Ciencias de California](https://www.gbif.org/dataset/13b70480-bd69-11dd-b15f-b8a03c50a862){:target="_blank"}. [(CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/) 
     - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023 # required
       description: |      # required
         La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el Premio Investigadores Graduados 2023, consulta las bases en la publicación.
       href: /post/2023/graduate-research-award-2023
-      background: https://static.antweb.org/images/casent0650521/casent0650521_p_1_high.jpg
-      imageLicense: |
-        _Neivamyrmex clavifemur_ Borgmeier, 1953 [collectada](https://www.gbif.org/occurrence/3406930306){:target="_blank"} en Sucumbíos, Ecuador por D. Forrister. Fotografía por la [Academia de Ciencias de California](https://www.gbif.org/dataset/13b70480-bd69-11dd-b15f-b8a03c50a862){:target="_blank"}. [(CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/) 
+      background: https://api.gbif.org/v1/image/VLC8iHvXx45koWSvxXuDpOnxQMY=/fit-in/1600x0/https%3A%2F%2Fapi.gbif.org%2Fv1%2Fimage%2Funsafe%2F1170x422%2Fhttp%3A%252F%252Fimages.ctfassets.net%252Fuo17ejk9rkwj%252F3MKHUCDqtzQWr4C7HyKV3a%252Fc03e38528d352bcb7eed22a53c71c7f0%252FGRA-2023-hero-es.png
+      imageLicense: | #none
 
 #stories:
   # Title (Optional)
