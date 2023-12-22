@@ -61,3 +61,12 @@ La Reserva Ecológica Arenillas ha compartido los siguientes set de datos:<br>
 <li><a href="/dataset/accaeedb-7e50-4a42-8ac0-714073d05311">Checklist de especies presentes en la Reserva Ecológica Arenillas</a>.</li>
 </ul>
 </details>
+
+## Otros recursos compartidos
+
+<details>
+<summary markdown="span"><b>Consulta aquí</b></summary><br>
+<ul>
+<li><a href="/dataset/31322eca-e6af-499b-a3c1-52f4cf158723">Primer Conteo de Primates en el Sistema Nacional de Áreas Protegidas del Ecuador</a>.</li>
+</ul>
+</details>
