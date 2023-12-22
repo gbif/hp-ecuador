@@ -10,20 +10,21 @@ permalink: /snap
 toc: true
 ---
 
-El Sistema Nacional de Áreas Protegidas está integrado por los subsistemas 
+Las áreas protegidas son espacios prioritarios de conservación y desarrollo sostenible. El personal de dichas áreas realiza levantamiento de información biológica, principalmente durante las actividades de implementación de los programas de Biodiversidad y de Control y Vigilancia.
+
+El Sistema Nacional de Áreas Protegidas está integrado por los subsistemas:
 
 - Estatal, 
 - Autónomo descentralizado, 
 - Comunitario, y privado. 
- 
 
-Las áreas protegidas son espacios prioritarios de conservación y desarrollo sostenible. Aquí se lista los diferentes sel de datos que han sido compartidos en base a la información levantada por el personal que trabaja en dichas áreas. Principalmente durante las actividades de implementación de los programas de Biodiversidad y de Control y Vigilancia.
+ Aquí se lista los diferentes recursos que han sido compartidos en base a la información levantada por el personal que trabaja en dichas áreas.
 
 ## Parque Nacional
 
 <details>
 <summary markdown="span"><b>Antisana</b></summary><br>
-El Parque Nacional Antisana ha compartido los siguientes set de datos:<br>
+El Parque Nacional Antisana ha compartido los siguientes recursos:<br>
 <ul>
 <li><a href="/dataset/4311c009-e258-45b9-9e57-d0b1d04f6157">Registro de avistamientos de fauna durante recorridos de control y vigilancia en el Parque Nacional Antisana</a>.</li>
 </ul>
@@ -33,7 +34,7 @@ El Parque Nacional Antisana ha compartido los siguientes set de datos:<br>
 
 <details>
 <summary markdown="span"><b>Pambilar</b></summary><br>
-El Refugio de Vida Silvestre Pambilar ha compartido los siguientes set de datos:<br>
+El Refugio de Vida Silvestre Pambilar ha compartido los siguientes recursos:<br>
 <ul>
 <li><a href="/dataset/2585fcc6-647f-4fb7-a25a-07c515c9d079">Registro de Cámaras Trampa del Refugio de Vida Silvestre Pambilar</a>.</li><br>
 <li><a href="/dataset/7482c011-1692-412d-a87c-220a579ccfd2">Monitoreo de aves en el Refugio de Vida Silvestre Pambilar</a>.</li><br>
@@ -46,7 +47,7 @@ El Refugio de Vida Silvestre Pambilar ha compartido los siguientes set de datos:
 
 <details>
 <summary markdown="span"><b>Chimborazo</b></summary><br>
-La Reserva de Producción de Fauna Chimborazo ha compartido los siguientes set de datos:<br>
+La Reserva de Producción de Fauna Chimborazo ha compartido los siguientes recursos:<br>
 <ul>
 <li><a href="/dataset/af42469c-4a49-43ac-99da-b6ae68b3775c">Registro de avistamientos de fauna durante recorridos de control y vigilancia en la Reserva de Producción de Fauna Chimborazo</a>.</li>
 </ul>
@@ -56,7 +57,7 @@ La Reserva de Producción de Fauna Chimborazo ha compartido los siguientes set d
 
 <details>
 <summary markdown="span"><b>Arenillas</b></summary><br>
-La Reserva Ecológica Arenillas ha compartido los siguientes set de datos:<br>
+La Reserva Ecológica Arenillas ha compartido los siguientes recursos:<br>
 <ul>
 <li><a href="/dataset/accaeedb-7e50-4a42-8ac0-714073d05311">Checklist de especies presentes en la Reserva Ecológica Arenillas</a>.</li>
 </ul>
