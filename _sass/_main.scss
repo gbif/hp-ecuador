@@ -2,23 +2,48 @@ $navbar-breakpoint: 1100px;
 @import "theme/_main";
 
 // You can add additional styling here
-@import "_example";
-
-// se añade del GB30 CSS
 
 .floatingHero.home {
-    .feature-title {
-      width: 800px;
-      max-width: 90%;
-      margin: auto;
-      font-family: 'Bitter', serif;
-      font-size: 3.5em;
-      line-height: 1.2em;
-      font-weight: 700;
-    }
+  .feature-title {
+    width: 800px;
+    max-width: 90%;
+    margin: auto;
+    font-family: 'Bitter', serif;
+    font-size: 3.5em;
+    line-height: 1.2em;
+    font-weight: 700;
+  }
+  .feature-description {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.2em;
+  }
+}
 
-    .feature-description {
-      font-family: 'Bitter', sans-serif;
-      line-height: 1.2em;
-    }
+p {
+  font-family: 'Roboto', sans-serif;
+  color: inherit;
+}
+
+.feature-text {
+  font-family: 'Bitter', serif;
+}
+
+.feature-title {
+  font-family: 'Bitter', serif;
+  color: #4F4C4D;
+}
+.navbar-content {
+  font-family: 'Roboto', sans-serif;
+  align-items: center;
+}
+
+.navbar-brand,
+.navbar-tabs {
+  font-family:'Bitter', serif;
+  font-weight: 700;
+  font-size: 1.4em;
+  align-items: stretch;
+  display: flex;
+  flex-shrink: 0;
+  min-height: $navbar-height; 
 }
