@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: | 
-      [<img src="/assets/images/home/footer/MAATE-2024.png"/>](https://www.ambiente.gob.ec/)
+      [<img src="/assets/images/home/footer/maate_2024.png"/>](https://www.ambiente.gob.ec/)
   - name: Contacto
     description: | # Can be Markdown
       * Calle Madrid 1159 y Andalucía, 170525
