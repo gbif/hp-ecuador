@@ -12,7 +12,10 @@
     href: /institution/search
   - text: Colecciones científicas
     href: /collection/search
-  
+
+- text: IPT
+  href: /ipt/
+
 #- text: Compartir
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Guia para Compartir Datos
@@ -30,8 +33,7 @@
   menu: # Dropdown menu (one level deep only)
   - text: SIB-EC
     href: http://biodiversidad.ambiente.gob.ec:8099/biodiversidad-web/inicio/
-  - text: Herramienta Integrada de Publicación IPT
-    href: http://patrimonio.ambiente.gob.ec/iptmae_test/
+
 #  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
 #  - text: "Documentos y Manuales" # Title for block of menu items
 #  - text: manual 1
