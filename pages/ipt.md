@@ -21,7 +21,7 @@ Los IPT disponibles en Ecuador son los siguientes:
 
 Nombre  | Enlace  | Descripción
 ------------ | ------------- | -------------
-Producción | [http://patrimonio.ambiente.gob.ec/iptmae/](http://patrimonio.ambiente.gob.ec/iptmae/){:target="_blank"} | Para datos continentales.
+Producción | [http://patrimonio.ambiente.gob.ec/iptmae/](http://patrimonio.ambiente.gob.ec/iptmae/){:target="_blank"} | Para publicar y registrar los datos en la Red de GBIF.
 Pruebas | [http://patrimonio.ambiente.gob.ec/iptmae_test/](http://patrimonio.ambiente.gob.ec/iptmae_test/){:target="_blank"} | Para generar un recurso previo a su migración,  probar extensiones o publicaciones.
 Permisos de Recolección | [http://patrimonio.ambiente.gob.ec/iptmae_permisos/](http://patrimonio.ambiente.gob.ec/iptmae_permisos/){:target="_blank"} | Para reportar datos derivados de autorizaciones de recolección de especímenes y acceso a recursos genéticos.
 
