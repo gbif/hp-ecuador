@@ -9,7 +9,6 @@ imageLicense: >
   _Espadarana prosoblepon_ [observada](https://www.inaturalist.org/observations/197106693){:target="_blank"}
   por bird-nature-lover en Pichincha, Ecuador. 
 height: 60vh
-
 ---
 
 La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad.
