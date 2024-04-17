@@ -84,7 +84,13 @@ news:
   title: Noticias
   description: |
     Consulta aquí algunas noticias sobre la comunidad.
-  features:    
+  features:
+    - title: Proyecto CESP: Portales nacionales abordando desafíos nacionales # required
+      description: |      # required
+        El Proyecto CESP: Portales nacionales abordando desafíos nacionales, que ha sido seleccionado dentro de la convocatoria 2023 del Capacity Enhancement Support Programme (CESP) de GBIF.
+      href: /post/2024/cesp-national-portals
+      background: https://www.gbif.es/wp-content/uploads/2024/04/2V1A9038-1-768x512.jpg
+      imageLicense: # None for this image, but normally you would provide one here    
     - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2024 # required
       description: |      # required
         La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el Premio Investigadores Graduados 2024, consulta las bases en la publicación.
@@ -98,12 +104,6 @@ news:
       background: https://static.antweb.org/images/casent0650521/casent0650521_p_1_high.jpg
       imageLicense: |
         _Neivamyrmex clavifemur_ Borgmeier, 1953 [collectada](https://www.gbif.org/occurrence/3406930306){:target="_blank"} en Sucumbíos, Ecuador por D. Forrister. Fotografía por la [Academia de Ciencias de California](https://www.gbif.org/dataset/13b70480-bd69-11dd-b15f-b8a03c50a862){:target="_blank"}. [(CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/) 
-    - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023 # required
-      description: |      # required
-        La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en invitar a presentar candidaturas para el Premio Investigadores Graduados 2023, consulta las bases en la publicación.
-      href: /post/2023/graduate-research-award-2023
-      background: https://api.gbif.org/v1/image/VLC8iHvXx45koWSvxXuDpOnxQMY=/fit-in/1600x0/https%3A%2F%2Fapi.gbif.org%2Fv1%2Fimage%2Funsafe%2F1170x422%2Fhttp%3A%252F%252Fimages.ctfassets.net%252Fuo17ejk9rkwj%252F3MKHUCDqtzQWr4C7HyKV3a%252Fc03e38528d352bcb7eed22a53c71c7f0%252FGRA-2023-hero-es.png
-      imageLicense: | #none
 
 #stories:
   # Title (Optional)

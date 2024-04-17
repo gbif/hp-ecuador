@@ -10,8 +10,9 @@ toc: false
 El Proyecto CESP: Portales nacionales abordando desafíos nacionales, que ha sido seleccionado dentro de la convocatoria 2023 del [Capacity Enhancement Support Programme](https://www.gbif.org/programme/82219/capacity-enhancement-support-programme){:target="_blank"} (CESP) de GBIF, reúne los conocimientos y las experiencias de cuatro nodos socios de GBIF en torno a los dos tipos de portales de datos de biodiversidad más utilizados —Living Atlases y Hosted Portals— y a cómo se pueden emplear para abordar desafíos nacionales.
 
 El objetivo del proyecto es aprovechar esta experiencia, diversa y complementaria, para fortalecer la capacidad de los nodos nacionales de GBIF, con el propósito de responder a los desafíos nacionales en diferentes áreas (ciencia, gestión, conservación, política, etc.) mediante el uso de portales nacionales de datos de biodiversidad. Esto implica: 
-1) recopilar, estructurar y documentar los casos de uso y experiencias; y 
-2) desarrollar materiales de capacitación diseñados para fortalecer las capacidades de la comunidad global de nodos de GBIF. 
+
+1. recopilar, estructurar y documentar los casos de uso y experiencias; y,
+2. desarrollar materiales de capacitación diseñados para fortalecer las capacidades de la comunidad global de nodos de GBIF. 
 
 Las principales acciones del Proyecto CESP: Portales nacionales abordando desafíos nacionales son:
 
@@ -28,5 +29,5 @@ Las principales acciones del Proyecto CESP: Portales nacionales abordando desaf�
 - [Sistema Nacional de Información sobre la Diversidad Biológica de Guatemala](https://snib.conap.gob.gt/){:target="_blank"}.
 
 ## Documentos de Interés
-- Formulario de descripción de casos de uso de datos de biodiversidad
-- Catálogo de casos de uso de portales nacionales para enfrentar desafíos nacionales
+- [Formulario de descripción de casos de uso de datos de biodiversidad](https://forms.gle/4gtCKCfQumz83wR3A){:target="_blank"}
+- [Catálogo de casos de uso de portales nacionales para enfrentar desafíos nacionales](https://www.gbif.es/wp-content/uploads/2024/04/CATALOGO-DE-CASOS-DE-uso-de-portales-nacionales-para-enfrentar-desafios-nacionales.pdf){:target="_blank"}
