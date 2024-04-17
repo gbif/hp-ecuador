@@ -85,7 +85,7 @@ news:
   description: |
     Consulta aquí algunas noticias sobre la comunidad.
   features:
-    - title: Proyecto CESP: Portales nacionales abordando desafíos nacionales # required
+    - title: Proyecto CESP Portales nacionales abordando desafíos nacionales # required
       description: |      # required
         El Proyecto CESP: Portales nacionales abordando desafíos nacionales, que ha sido seleccionado dentro de la convocatoria 2023 del Capacity Enhancement Support Programme (CESP) de GBIF.
       href: /post/2024/cesp-national-portals
