@@ -3,7 +3,7 @@ title:  "Proyecto CESP: Portales nacionales abordando desafíos nacionales"
 date:   2024-04-04 09:00:00 -0500
 categories: ["Convocatorias"]
 lang-ref:
-background: https://www.gbif.es/wp-content/uploads/2024/04/2V1A9038-1-768x512.jpg
+background: /assets/images/posts/2024-04-04-cesp-national-portals
 toc: false
 ---
 
