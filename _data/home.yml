@@ -89,7 +89,7 @@ news:
       description: |      # required
         El Proyecto CESP: Portales nacionales abordando desafíos nacionales, que ha sido seleccionado dentro de la convocatoria 2023 del Capacity Enhancement Support Programme (CESP) de GBIF.
       href: /post/2024/cesp-national-portals
-      background: https://www.gbif.es/wp-content/uploads/2024/04/2V1A9038-1-768x512.jpg
+      background: /assets/images/posts/2024-04-04-cesp-national-portals
       imageLicense: # None for this image, but normally you would provide one here    
     - title: Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2024 # required
       description: |      # required

@@ -1,9 +1,9 @@
 ---
 title:  "Proyecto CESP: Portales nacionales abordando desafíos nacionales"
 date:   2024-04-04 09:00:00 -0500
-categories: ["Convocatorias"]
+categories: ["Proyectos"]
 lang-ref:
-background: /assets/images/posts/2024-04-04-cesp-national-portals
+background: /assets/images/posts/2024-04-04-cesp-national-portals.jpg
 toc: false
 ---
 
@@ -12,7 +12,7 @@ El Proyecto CESP: Portales nacionales abordando desafíos nacionales, que ha sid
 El objetivo del proyecto es aprovechar esta experiencia, diversa y complementaria, para fortalecer la capacidad de los nodos nacionales de GBIF, con el propósito de responder a los desafíos nacionales en diferentes áreas (ciencia, gestión, conservación, política, etc.) mediante el uso de portales nacionales de datos de biodiversidad. Esto implica: 
 
 1. recopilar, estructurar y documentar los casos de uso y experiencias; y,
-2. desarrollar materiales de capacitación diseñados para fortalecer las capacidades de la comunidad global de nodos de GBIF. 
+2. desarrollar materiales de capacitación diseñados para fortalecer las capacidades de la comunidad global de nodos de GBIF.
 
 Las principales acciones del Proyecto CESP: Portales nacionales abordando desafíos nacionales son:
 
