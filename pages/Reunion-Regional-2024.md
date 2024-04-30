@@ -36,20 +36,42 @@ Desde Quito existen frecuencias diarias hacia Manta, en la mañana y noche.
 
 # Venue & Hoteles
 
+El sitio del evento será el [Hotel Balandra](https://www.balandrahotel.com/), y las personas que reciban apoyo financiero por parte de la Secretaría se hospedarán en el mismo lugar. 
 
+Si usted organiza su propio alojamiento puede hacerlo en los siguientes hoteles, los cuales están cerca del venue.
+
+**Hotel Balandra**
+Avenida 7 y, C. 20
+[Sitio Web](https://www.balandrahotel.com/)
+Info: Lugar del evento. 
+
+**Hotel Oro Verde Manta**
+Malecon de Manta y calle 23
+[Sitio Web](https://www.oroverdemanta.com/es/)
+Info: 7 minutos del Hotel Balandra
+
+**Hotel Vistalmar**
+Calle M1 y Av. 24
+[Sitio Web](https://hosteriavistaalmar.com/es/)
+Info: 10 minutos del Hotel Balandra
+
+**Hotel Mar Azul**
+Calle22 y, Av Flavio Reyes
+[Sitio Web](https://www.marazulhotel.com.ec/)
+Info: 4 minutos del Hotel Balandra
 
 # Información General
 
 ## Electricidad
 
-En Ecuador, el suministro eléctrico nacional es de 110 V, las tomas de corriente son del [Tipos A y B](https://www.worldstandards.eu/electricity/plugs-and-sockets/ab/){:target="_blank"}.
+En Ecuador, el suministro eléctrico nacional es de 110 V, las tomas de corriente son del [tipo A y B](https://www.worldstandards.eu/electricity/plugs-and-sockets/ab/){:target="_blank"}.
 
 ## Moneda
 
 El uso de medios electrónicos para pagos no es muy amplio en Ecuador, sin embargo los locales grande sy Centros comerciales aceptan tarjetas de crédito y débito. 
 
-Travel money guide: [Ecuador](https://www.finder.com/travel-money/ecuador){:target="_blank"}
+**Travel money guide:** [Ecuador](https://www.finder.com/travel-money/ecuador){:target="_blank"}
 
-Currency: $(USD)
+**Currency:** $(USD)
 
 En Ecuador, la mayoría de los productos están sujetos al 15% de IVA (impuesto al valor agregado). Esto incluye tanto lo que se compra en tiendas como lo que se come fuera.
