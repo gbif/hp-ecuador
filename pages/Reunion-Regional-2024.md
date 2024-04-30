@@ -41,21 +41,25 @@ El sitio del evento será el [Hotel Balandra](https://www.balandrahotel.com/), y
 Si usted organiza su propio alojamiento puede hacerlo en los siguientes hoteles, los cuales están cerca del venue.
 
 **Hotel Balandra**
-Avenida 7 y, C. 20
-[Sitio Web](https://www.balandrahotel.com/)
+
+Dirección: Avenida 7 y, C. 20
+[Sitio Web:](https://www.balandrahotel.com/)
 Info: Lugar del evento. 
 
 **Hotel Oro Verde Manta**
+
 Malecon de Manta y calle 23
 [Sitio Web](https://www.oroverdemanta.com/es/)
 Info: 7 minutos del Hotel Balandra
 
 **Hotel Vistalmar**
+
 Calle M1 y Av. 24
 [Sitio Web](https://hosteriavistaalmar.com/es/)
 Info: 10 minutos del Hotel Balandra
 
 **Hotel Mar Azul**
+
 Calle22 y, Av Flavio Reyes
 [Sitio Web](https://www.marazulhotel.com.ec/)
 Info: 4 minutos del Hotel Balandra
