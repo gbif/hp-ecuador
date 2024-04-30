@@ -42,27 +42,27 @@ Si usted organiza su propio alojamiento puede hacerlo en los siguientes hoteles,
 
 **Hotel Balandra**
 
-. Dirección: Avenida 7 y, C. 20
-. [Sitio Web](https://www.balandrahotel.com/)
-. Info: Lugar del evento. 
+- Dirección: Avenida 7 y, C. 20
+- [Sitio Web](https://www.balandrahotel.com/)
+- Info: Lugar del evento. 
 
 **Hotel Oro Verde Manta**
 
-. Malecón de Manta y calle 23
-. [Sitio Web](https://www.oroverdemanta.com/es/)
-. Info: 7 minutos del Hotel Balandra
+- Malecón de Manta y calle 23
+- [Sitio Web](https://www.oroverdemanta.com/es/)
+- Info: 7 minutos del Hotel Balandra
 
 **Hotel Vistalmar**
 
-. Calle M1 y Av. 24
-. [Sitio Web](https://hosteriavistaalmar.com/es/)
-. Info: 10 minutos del Hotel Balandra
+- Calle M1 y Av. 24
+- [Sitio Web](https://hosteriavistaalmar.com/es/)
+- Info: 10 minutos del Hotel Balandra
 
 **Hotel Mar Azul**
 
-Calle22 y, Av Flavio Reyes
-[Sitio Web](https://www.marazulhotel.com.ec/)
-Info: 4 minutos del Hotel Balandra
+- Calle22 y, Av Flavio Reyes
+- [Sitio Web](https://www.marazulhotel.com.ec/)
+- Info: 4 minutos del Hotel Balandra
 
 # Mapa del sitio
 
@@ -80,8 +80,18 @@ En Ecuador, el suministro eléctrico nacional es de 110 V, las tomas de corrient
 
 El uso de medios electrónicos para pagos no es muy amplio en Ecuador, sin embargo los locales grande sy Centros comerciales aceptan tarjetas de crédito y débito. 
 
-**Travel money guide:** [Ecuador](https://www.finder.com/travel-money/ecuador){:target="_blank"}
+**Guía:** [Ecuador](https://www.finder.com/travel-money/ecuador){:target="_blank"}
 
-**Currency:** $(USD)
+**Moneda:** $(USD)
 
 En Ecuador, la mayoría de los productos están sujetos al 15% de IVA (impuesto al valor agregado). Esto incluye tanto lo que se compra en tiendas como lo que se come fuera.
+
+## Propinas
+
+Las propinas no son frecuentes en Ecuador, y a pesar de que son opcionales, muchas veces las facturas incluyen el 10% de servicio.
+
+## Clima
+
+En junio en Manta, el clima es seco ; no llueve a menudo (14mm de precipitaciones en 1 días).
+
+Las temperaturas suben hasta 28°C. La temperatura mínima de la estación es de 24°C. Así que, el promedio de temperatura en junio en Manta es de 26°C.
