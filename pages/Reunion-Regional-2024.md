@@ -7,6 +7,7 @@ description: null
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/365499497/original.jpeg
 imageLicense: _Chelonia mydas_ [observada](https://www.inaturalist.org/observations/206732344){:target="_blank"}  por maria_cd en Manabí, Ecuador.
 height: 80vh
+toc: true
 ---
 
 # Requisitos de viaje para entrar en Ecuador
@@ -33,7 +34,9 @@ Existen vuelos directos hacia el el Aeropuerto Internacional Eloy Alfaro (MEC) d
 
 Desde Quito existen frecuencias diarias hacia Manta, en la mañana y noche.
 
-# Venue
+# Venue & Hoteles
+
+
 
 # Información General
 
