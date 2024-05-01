@@ -8,10 +8,10 @@ background: https://inaturalist-open-data.s3.amazonaws.com/photos/365588082/orig
 imageLicense: _Sula nebouxii_ [observada](https://www.inaturalist.org/observations/206732319){:target="_blank"}  por maria_cd en Manabí, Ecuador.
 height: 90vh
 toc: true
-cta: # OPTIONAL list of buttons
-- text: Página del evento
-  href: https://www.gbif.org/event/5ffiVoYwhcFpz3wvv4qLjv/
-  isPrimary: true # OPTIONAL
+cta:
+  - text: Página del evento
+    href: https://www.gbif.org/event/5ffiVoYwhcFpz3wvv4qLjv/
+    isPrimary: true
 ---
 
 # Requisitos de viaje para entrar en Ecuador
