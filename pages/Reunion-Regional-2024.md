@@ -6,7 +6,7 @@ permalink: /nodes-meeting-2024
 description: null
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/365588082/original.jpg
 imageLicense: _Sula nebouxii_ [observada](https://www.inaturalist.org/observations/206732319){:target="_blank"}  por maria_cd en Manabí, Ecuador.
-height: 70vh
+height: 80vh
 toc: true
 ---
 
