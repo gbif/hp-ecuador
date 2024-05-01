@@ -6,7 +6,7 @@ permalink: /nodes-meeting-2024
 description: null
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/365499497/original.jpeg
 imageLicense: _Chelonia mydas_ [observada](https://www.inaturalist.org/observations/206732344){:target="_blank"}  por maria_cd en Manabí, Ecuador.
-height: 80vh
+height: 90vh
 toc: true
 ---
 
@@ -14,11 +14,13 @@ toc: true
 
 Los asistentes a la reunión son responsables de organizar su propio viaje y de asegurarse de que disponen de la documentación necesaria para entrar en Ecuador.
 
+Para las personas cuyo viaje es organizado por la Secretaría, la Agencia CWT será la encargada de la compra y reserva de los vuelos.
+
 ## Requisitos de Visado y pasaporte para Ecuador
 
 La mayoría de las personas no necesitan obtener una visa para ingresar a Ecuador. Los ciudadanos de la Comunidad Andina no requieren un pasaporte para el ingreso a Ecuador.
 
-Puede consultar los requerimientos de visado, y si se requiere de una visa, en el sitio web del [Ministerio de Relaciones Exteriores y Movilidad Humana](https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/){:target="_blank"}.
+Puede consultar los requerimientos de documentación, y si se requiere de una visa, en el sitio web del [Ministerio de Relaciones Exteriores y Movilidad Humana](https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/){:target="_blank"}.
 
 # Llegada a Manta
 
@@ -34,9 +36,19 @@ Existen vuelos directos hacia el el Aeropuerto Internacional Eloy Alfaro (MEC) d
 
 Desde Quito existen frecuencias diarias hacia Manta, en la mañana y noche.
 
+## Transporte desde el Aeropuerto
+
+El Aeropuerto Internacional Eloy Alfaro (MEC), se encuentra a 15-20 minutos del sitio del evento.
+
+LAs personas que se Hospedaran en el Hotel Balandra para el evento dispondrán de servicios de transporte desde y hacia el aeropuerto. 
+
+Para las personas que se hospeden en otro hotel, se recomienda que soliciten el servicio de transporte del hotel en que se hospeden. 
+
+Si el Hotel no dispone de este servicio, se puede tomar los taxis del aeropuerto, o solicitar transporte mediante InDriver. 
+
 # Venue & Hoteles
 
-El sitio del evento será el [Hotel Balandra](https://www.balandrahotel.com/), y las personas que reciban apoyo financiero por parte de la Secretaría se hospedarán en el mismo lugar. 
+El sitio del evento será el [Hotel Balandra](https://www.balandrahotel.com/), y las personas que reciban apoyo financiero por parte de la Secretaría se hospedarán en el mismo lugar.
 
 Si usted organiza su propio alojamiento puede hacerlo en los siguientes hoteles, los cuales están cerca del venue.
 
@@ -72,6 +84,16 @@ Un mapa con la localización del venue y hoteles recomendados puede verse a cont
 
 # Información General
 
+## Comidas cubiertas
+
+Las personas que reciben apoyo financiero pro parte de al Secretaría, tienen el desayuno cubierto por el Hotel Balandra.
+
+Para todos los asistentes se ofrecerá
+
+- Coffee break (uno en la mañana y otro en la tarde)
+- Almuerzo en venue
+- Cena en venue (Inclusive día de llegada)
+
 ## Electricidad
 
 En Ecuador, el suministro eléctrico nacional es de 110 V, las tomas de corriente son del [tipo A y B](https://www.worldstandards.eu/electricity/plugs-and-sockets/ab/){:target="_blank"}.
@@ -88,7 +110,7 @@ En Ecuador, la mayoría de los productos están sujetos al 15% de IVA (impuesto 
 
 ## Propinas
 
-Las propinas no son frecuentes en Ecuador, y a pesar de que son opcionales, muchas veces las facturas incluyen el 10% de servicio.
+Las propinas no son frecuentes en Ecuador, y a pesar de que son opcionales, muchas veces las facturas ya incluyen el 10% de servicio.
 
 ## Clima
 
