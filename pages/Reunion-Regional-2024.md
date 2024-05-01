@@ -44,11 +44,11 @@ Desde Quito existen frecuencias diarias hacia Manta, en la mañana y noche.
 
 El Aeropuerto Internacional Eloy Alfaro (MEC), se encuentra a 15-20 minutos del sitio del evento.
 
-LAs personas que se Hospedaran en el Hotel Balandra para el evento dispondrán de servicios de transporte desde y hacia el aeropuerto. 
+Las personas que se hospedaran en el Hotel Balandra para el evento dispondrán de servicio de transporte desde y hacia el aeropuerto.
 
-Para las personas que se hospeden en otro hotel, se recomienda que soliciten el servicio de transporte del hotel en que se hospeden. 
+Para las personas que se hospeden en otro hotel, se recomienda que soliciten el servicio de transporte del hotel en que se hospeden.
 
-Si el Hotel no dispone de este servicio, se puede tomar los taxis del aeropuerto, o solicitar transporte mediante InDriver. 
+Si el Hotel no dispone de este servicio, se puede tomar los taxis del aeropuerto, o solicitar transporte mediante InDriver.
 
 # Venue & Hoteles
 
