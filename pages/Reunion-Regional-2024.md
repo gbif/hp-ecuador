@@ -4,9 +4,9 @@ klass: actividad
 title: 11va Reunión Regional de Nodos de Latinoamérica y el Caribe
 permalink: /nodes-meeting-2024
 description: null
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/365499497/original.jpeg
-imageLicense: _Chelonia mydas_ [observada](https://www.inaturalist.org/observations/206732344){:target="_blank"}  por maria_cd en Manabí, Ecuador.
-height: 90vh
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/365588082/original.jpg
+imageLicense: _Sula nebouxii_ [observada](https://www.inaturalist.org/observations/206732319){:target="_blank"}  por maria_cd en Manabí, Ecuador.
+height: 70vh
 toc: true
 ---
 
