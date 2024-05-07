@@ -12,6 +12,9 @@ cta:
   - text: Página del evento
     href: https://www.gbif.org/event/5ffiVoYwhcFpz3wvv4qLjv/
     isPrimary: true
+  - text: Agenda
+    href: https://docs.google.com/document/d/1IGQt7ZIb6NYPcBLuv_LWmmrP_XAcqf8DBRfwkU3WtNY/edit?usp=sharing
+    isPrimary: false
 ---
 
 # Requisitos de viaje para entrar en Ecuador
