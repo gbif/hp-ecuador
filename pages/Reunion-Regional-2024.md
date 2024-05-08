@@ -29,6 +29,10 @@ La mayoría de las personas no necesitan obtener una visa para ingresar a Ecuado
 
 Puede consultar los requerimientos de documentación, y si se requiere de una visa, en el sitio web del [Ministerio de Relaciones Exteriores y Movilidad Humana](https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/){:target="_blank"}.
 
+## Fiebre Amarilla
+
+A pesar de que en la costa de Ecuador no hay reportes de **Fiebre Amarilla**, y de que el [Ministerio de Relaciones Exteriores y Movilidad Humana](https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/), solo recomienda la vacunación cuando se visite la Amazonía, algunas aerolíneas pueden solicitar el certificado de vacunación previo el abordaje, por lo que se recomienda consultar con la aerolínea si es necesario contar con el certificado correspondiente.
+
 # Llegada a Manta
 
 ## Acerca de Manta
