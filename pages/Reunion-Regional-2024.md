@@ -13,7 +13,7 @@ cta:
     href: https://www.gbif.org/event/5ffiVoYwhcFpz3wvv4qLjv/
     isPrimary: true
   - text: Agenda
-    href: https://docs.google.com/document/d/1IGQt7ZIb6NYPcBLuv_LWmmrP_XAcqf8DBRfwkU3WtNY/edit?usp=sharing
+    href: https://docs.google.com/document/d/1IGQt7ZIb6NYPcBLuv_LWmmrP_XAcqf8DBRfwkU3WtNY
     isPrimary: false
 ---
 
@@ -93,27 +93,27 @@ Un mapa con la localización del venue y hoteles recomendados puede verse a cont
 
 ## Comidas cubiertas
 
-Las personas que reciben apoyo financiero pro parte de al Secretaría, tienen el desayuno cubierto por el Hotel Balandra.
+Las personas que reciben apoyo financiero por parte de la Secretaría, tienen el desayuno cubierto por el Hotel Balandra.
 
 Para todos los asistentes se ofrecerá
 
-- Coffee break (uno en la mañana y otro en la tarde)
+- Coffee break
 - Almuerzo en venue
-- Cena en venue (Inclusive día de llegada)
-
+- Cena en venue
+  
 ## Electricidad
 
 En Ecuador, el suministro eléctrico nacional es de 110 V, las tomas de corriente son del [tipo A y B](https://www.worldstandards.eu/electricity/plugs-and-sockets/ab/){:target="_blank"}.
 
 ## Moneda
 
-El uso de medios electrónicos para pagos no es muy amplio en Ecuador, sin embargo los locales grande sy Centros comerciales aceptan tarjetas de crédito y débito. 
+El uso de medios electrónicos para pagos no es muy amplio en Ecuador, sin embargo los locales grandes y centros comerciales aceptan tarjetas de crédito y débito.
 
 **Guía:** [Ecuador](https://www.finder.com/travel-money/ecuador){:target="_blank"}
 
 **Moneda:** $(USD)
 
-En Ecuador, la mayoría de los productos están sujetos al 15% de IVA (impuesto al valor agregado). Esto incluye tanto lo que se compra en tiendas como lo que se come fuera.
+En Ecuador, la mayoría de los productos están sujetos al 15% de IVA (impuesto al valor agregado).
 
 ## Propinas
 
@@ -121,6 +121,6 @@ Las propinas no son frecuentes en Ecuador, y a pesar de que son opcionales, much
 
 ## Clima
 
-En junio en Manta, el clima es seco ; no llueve a menudo (14mm de precipitaciones en 1 días).
+En junio en Manta, el clima es seco; lo cual implican pocas lluvias (14mm de precipitaciones en 1 día). Las temperaturas pueden llegar hasta 28°C.
 
-Las temperaturas suben hasta 28°C. La temperatura mínima de la estación es de 24°C. Así que, el promedio de temperatura en junio en Manta es de 26°C.
+ La temperatura mínima de la estación es de 24°C. Así que, el promedio de temperatura en junio en Manta es de 26°C.
