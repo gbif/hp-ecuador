@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 klass: actividad
-title: 11va Reunión Regional de Nodos de Latinoamérica y el Caribe
+title: 10ma Reunión Regional de Nodos de Latinoamérica y el Caribe
 permalink: /nodes-meeting-2024
 description: null
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/365588082/original.jpg
