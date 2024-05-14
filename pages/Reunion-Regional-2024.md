@@ -91,7 +91,7 @@ Si usted organiza su propio alojamiento puede hacerlo en los siguientes hoteles,
 
 Un mapa con la localización del venue y hoteles recomendados puede verse a continuación.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1BYedpakNVNGqz7GPpJngUVoN7ZcjbHw&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1BYedpakNVNGqz7GPpJngUVoN7ZcjbHw&ehbc=2E312F" width="640" height="400"></iframe>
 
 # Información General
 
@@ -135,7 +135,7 @@ El jueves 06 de junio se ha planificado una salida de campo, este evento no es c
 
 ## Información general para la salida de campo
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1lvpZgo4s3dOpIGl9GQND30Jdq25L_tE&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1lvpZgo4s3dOpIGl9GQND30Jdq25L_tE&ehbc=2E312F" width="640" height="400"></iframe>
 
 Durante la visita se viajará desde Manta hacia Pto López, lo cual implica dos horas de transporte via terrestre.
 
