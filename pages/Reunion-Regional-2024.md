@@ -128,3 +128,13 @@ Las propinas no son frecuentes en Ecuador, y a pesar de que son opcionales, much
 En junio en Manta, el clima es seco; lo cual implican pocas lluvias (14mm de precipitaciones en 1 día). Las temperaturas pueden llegar hasta 28°C.
 
  La temperatura mínima de la estación es de 24°C. Así que, el promedio de temperatura en junio en Manta es de 26°C.
+ 
+ # Salida de campo
+
+El jueves 06 de junio se ha planificado una salida de campo, este evento no es cubierto por la Secretaría, y desde en Nodo de Ecuador se cubrirá unicamente la movilización desde Manta hacia Puerto López.
+
+## Lugar de visita
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1lvpZgo4s3dOpIGl9GQND30Jdq25L_tE&ehbc=2E312F" width="640" height="480"></iframe>
+
+Durante la visita se viajará a Puerto Ló
