@@ -129,12 +129,43 @@ En junio en Manta, el clima es seco; lo cual implican pocas lluvias (14mm de pre
 
  La temperatura mínima de la estación es de 24°C. Así que, el promedio de temperatura en junio en Manta es de 26°C.
  
- # Salida de campo
+# Salida de campo
 
 El jueves 06 de junio se ha planificado una salida de campo, este evento no es cubierto por la Secretaría, y desde en Nodo de Ecuador se cubrirá unicamente la movilización desde Manta hacia Puerto López.
 
-## Lugar de visita
+## Información general para la salida de campo
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1lvpZgo4s3dOpIGl9GQND30Jdq25L_tE&ehbc=2E312F" width="640" height="480"></iframe>
 
-Durante la visita se viajará a Puerto Ló
+Durante la visita se viajará desde Manta hacia Pto López, lo cual implica dos horas de transporte via terrestre.
+
+La salida será desde el Mulle de Pto López hacia la Isla de la Plata. 
+
+## Isla de la Plata
+
+
+## Costo
+
+El costo por persona del Tour, es de **40 USD**
+
+Esto incluye:
+
+- Guías bilingües
+- Equipo de snorkeling
+- Almuerzo tipo box
+- Impuestos del muelle
+- Impuesto del Área protegida
+
+* *No incluye propina.*
+
+## Recomendaciones
+
+Se recomienda a los participantes llevar: 
+
+- Llevar chompa rompevientos
+- Zapatos cómodos para caminatas
+- Protector solar
+- Gorra
+- Traje de baño
+- Bloqueador solar 
+
