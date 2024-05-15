@@ -143,11 +143,15 @@ La salida será desde el Mulle de Pto López hacia la Isla de la Plata.
 
 ## Isla de la Plata
 
+Conocida como las «pequeñas Galápagos», la Isla de la Plata, frente a la costa de Ecuador, es un sueño para los amantes de la naturaleza.
+
+Esta isla es parte del Parque Nacional Machalilla. Se encuentra ubicada a una hora y media de viaje en lancha desde Pto. López.
+
+[Podemos encontrar estas especies](https://www.inaturalist.org/observations?nelat=-1.2302650335077459&nelng=-80.95771112470703&place_id=any&swlat=-1.3669618260405936&swlng=-81.11537320234375){:target="_blank"}
 
 ## Costo
 
 El costo por persona del Tour, es de **40 USD**
-
 Esto incluye:
 
 - Guías bilingües
@@ -156,16 +160,21 @@ Esto incluye:
 - Impuestos del muelle
 - Impuesto del Área protegida
 
-* *No incluye propina.*
+*No incluye propina.*
 
 ## Recomendaciones
 
 Se recomienda a los participantes llevar: 
 
-- Llevar chompa rompevientos
+- Chompa rompevientos
 - Zapatos cómodos para caminatas
 - Protector solar
 - Gorra
 - Traje de baño
 - Bloqueador solar 
 
+# iNaturalist
+
+Se ha creado un proyecto de iNAturalist para la Reunión, por lo que son más que bienvenidos a que se unan y participen del mismo.
+
+[GBIF LAC 2024 | Reunión Regional de Nodos de América Latina y el Caribe](https://www.inaturalist.org/projects/gbif-lac-2024-reunion-regional-de-nodos-de-america-latina-y-el-caribe){:target="_blank"}
