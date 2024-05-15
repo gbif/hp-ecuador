@@ -177,4 +177,4 @@ Se recomienda a los participantes llevar:
 
 Se ha creado un proyecto de iNAturalist para la Reunión, por lo que son más que bienvenidos a que se unan y participen del mismo.
 
-[GBIF LAC 2024 | Reunión Regional de Nodos de América Latina y el Caribe](https://www.inaturalist.org/projects/gbif-lac-2024-reunion-regional-de-nodos-de-america-latina-y-el-caribe){:target="_blank"}
+[Reunión Regional de Nodos de América Latina y el Caribe](https://www.inaturalist.org/projects/gbif-lac-2024-reunion-regional-de-nodos-de-america-latina-y-el-caribe){:target="_blank"}
