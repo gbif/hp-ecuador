@@ -19,9 +19,6 @@
 - text: IPT
   href: /ipt/
 
-- text: Reunión Regional 2024
-  href: /nodes-meeting-2024
-
 #- text: Compartir
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Guia para Compartir Datos
@@ -37,10 +34,15 @@
 
 - text: Más
   menu: # Dropdown menu (one level deep only)
+
   - text: SIB-EC
     href: http://biodiversidad.ambiente.gob.ec:8099/biodiversidad-web/inicio/
 
-#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  
+  - text: SIB-EC
+    href: http://biodiversidad.ambiente.gob.ec:8099/biodiversidad-web/inicio/
+
 #  - text: "Documentos y Manuales" # Title for block of menu items
 #  - text: manual 1
 #    href: 
