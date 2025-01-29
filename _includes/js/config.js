@@ -53,7 +53,12 @@ var siteConfig = {
   },
   literature: {
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
-     rootFilter: {countriesOfCoverage: ['EC']}
+     rootFilter: {
+      predicate: {
+        type: 'in',
+        key: 'countriesOfCoverage',
+        values: ['EC']
+      }
   },
   collection: {
     availableCatalogues: ['COLLECTION', 'INSTITUTION'],
