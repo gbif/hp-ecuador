@@ -59,6 +59,7 @@ var siteConfig = {
         key: 'countriesOfCoverage',
         values: ['EC']
       }
+    },
   },
   collection: {
     availableCatalogues: ['COLLECTION', 'INSTITUTION'],
