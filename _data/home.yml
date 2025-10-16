@@ -6,7 +6,7 @@ stats:
       klass: cifras
       description: Registros biológicos
       background: assets/images/home/stats-icons/occurrence.svg
-      href: /occurrence/search/?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3Rfbm90Ijp7Im9jY3VycmVuY2VJc3N1ZSI6WyJDT1VOVFJZX0NPT1JESU5BVEVfTUlTTUFUQ0giXX19
+      href: /occurrence/search/?filter=eyJtdXN0Ijp7ImNvdW50cnkiOlsiRUMiXX0sIm11c3ROb3QiOnsiaXNzdWUiOlsiQ09VTlRSWV9DT09SRElOQVRFX01JU01BVENIIl19LCJjaGVja2xpc3RLZXkiOiJkN2RkZGJmNC0yY2YwLTRmMzktOWIyYS1iYjA5OWNhYWUzNmMifQ%3D%3D
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22publishingCountry%22%2C%20value%3A%20%22EC%22%7D%2C%7Btype%3A%20equals%2C%20key%3A%20%22basisOfRecord%22%2C%20value%3A%20%22PRESERVED_SPECIMEN%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">1000,000></span>
       klass: cifras
